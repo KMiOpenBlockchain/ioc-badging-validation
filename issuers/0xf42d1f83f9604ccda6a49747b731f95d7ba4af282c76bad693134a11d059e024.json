@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf42d1f83f9604ccda6a49747b731f95d7ba4af282c76bad693134a11d059e024.json",
+  "name": "Teeside University",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xf42d1f83f9604ccda6a49747b731f95d7ba4af282c76bad693134a11d059e024.json",
+  "description": "Teesside University generates and applies knowledge that contributes to the economic, social and cultural success of students, partners and the communities we serve. Through education enriched by research, innovation, and engagement with business and the professions, we transform lives and economies.",
+  "url": "https://www.tees.ac.uk/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Teeside.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0xf42d1f83f9604ccda6a49747b731f95d7ba4af282c76bad693134a11d059e024.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

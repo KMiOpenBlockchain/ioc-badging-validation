@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4c56d7c4d860f16a2aad83d47e594cc739b5ada6331be8ac47d1f0e06298edf9.json",
+  "name": "Northumbria University",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x4c56d7c4d860f16a2aad83d47e594cc739b5ada6331be8ac47d1f0e06298edf9.json",
+  "description": "Northumbria is a research-rich, business-focused, professional university with a global reputation for academic excellence. It is based in the heart of Newcastle upon Tyne, which is regularly voted the best place in the UK for students\nNorthumbria is top ten in the UK for the number of graduates entering professional employment and nine out of ten of our graduates are working or studying six months after graduation. We are ranked 21st out of 111 universities in the 2014 Times Higher Education Student Satisfaction Survey.",
+  "url": "https://www.northumbria.ac.uk/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/NU_Logo_Black.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x4c56d7c4d860f16a2aad83d47e594cc739b5ada6331be8ac47d1f0e06298edf9.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

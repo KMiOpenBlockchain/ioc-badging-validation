@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "name": "TechUP Women",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "description": "TechUP Women is a 6 month online training programme, developed closely with industry, which takes 100 women from the North and Midlands and trains them in Tech skills, at the end of the programme each women has the opportunity to interview with one of our industry partners for a job in Tech.",
+  "url": "https://techupwomen.org/",
+  "email": "ioc.techup@durham.ac.uk",
+  "telephone": "+441913346942",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/techup-women.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

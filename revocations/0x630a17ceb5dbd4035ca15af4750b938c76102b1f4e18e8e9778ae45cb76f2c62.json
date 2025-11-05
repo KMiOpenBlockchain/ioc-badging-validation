@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "RevocationList",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x630a17ceb5dbd4035ca15af4750b938c76102b1f4e18e8e9778ae45cb76f2c62.json",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x630a17ceb5dbd4035ca15af4750b938c76102b1f4e18e8e9778ae45cb76f2c62.json",
+  "revokedAssertions": []
+}

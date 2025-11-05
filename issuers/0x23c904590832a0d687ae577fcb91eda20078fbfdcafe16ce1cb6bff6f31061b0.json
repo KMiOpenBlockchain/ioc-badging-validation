@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
+  "name": "The Open University, School of Computing & Communications",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
+  "description": "The Open University is the UK's leading university for innovative distance teaching and learning. The Industry Mentoring Programme aims to support women Computing and IT students in their career progression, through mentoring by experienced individuals who are already working in the Computing and IT industry. The Industry Mentoring Programme received funding from the Institute of Coding.",
+  "url": "https://www.open.ac.uk/stem/computing-and-communications/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/oulogo.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

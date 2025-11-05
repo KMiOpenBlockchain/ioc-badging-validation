@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
+  "name": "Huddersfield",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
+  "description": "Whatever you aim to do in life, it pays to get a good education. And with high standards of teaching and learning and excellent facilities that's exactly what our students can expect from the University of Huddersfield. Based right in the town centre and at the heart of the local community, we help thousands of people, from school leavers to those returning to education after a gap, achieve their goals each year.",
+  "url": "https://www.hud.ac.uk/inspire/business/skills-bootcamp/",
+  "email": "iocbootcamp@hud.ac.uk",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Huddersfield.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

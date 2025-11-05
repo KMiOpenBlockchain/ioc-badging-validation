@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "name": "University of Exeter",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "description": "At the University of Exeter we combine teaching excellence and high levels of student satisfaction with world class research at our campuses in Exeter and Cornwall. We are a member of the Russell Group of leading research-intensive universities. Our success is built on a strong partnership with our students and a clear focus on high performance.",
+  "url": "https://www.exeter.ac.uk",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/exeter_logo.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

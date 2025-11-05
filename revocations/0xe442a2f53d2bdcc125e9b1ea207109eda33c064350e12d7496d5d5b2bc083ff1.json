@@ -1,0 +1,272 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "RevocationList",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "revokedAssertions": [
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:4750fc54-a044-5fb3-9ae5-fc4911f77339"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x28ee7d59d56fb7e3b2bfdecf824048655fada135418eb261692f6edc15886f1b"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:23ab81cb-55a7-5f44-9624-16ca847a7b9b"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x058dcee81dc33cecdb0c851a8c5ce044265c18204361d2d9c624757da293580b"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:5cd631f1-7aaf-5bbb-8d8a-6b74f8b77fc4"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x7c430cd3d5de4d4ccca9a7ebdfbb5aa369b02f5380b639175c86ef8ef09ef8e7"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:1e0ee07f-1437-585e-b3fa-3b95b697561a"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x33fff1ed9ef5602d252ba56f3846830ce2ee171d39cdb5906cf5475fb19b915e"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:802930ba-5335-5068-b092-0b82ecf6b6fd"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x2f623259892a8e79ad5fe63241997eb5123e2bf456bf062aa09c0f6b64238833"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:0156111b-5d80-5fc4-84c8-ac4c4328e225"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x9dccf463218785133f4220b9215e6e8f6e2d189166101fdae4d7fd20f5f256a1"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:6df9ee8f-236e-529f-8978-e84ddc256a79"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xe53584093092eaf84deea5982f5e1b7e7b3a9325c2dfe6297ab8a6e4cf988df5"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:08dab637-795c-5991-830c-99e9ca88572a"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc0155fd8a4e6c1b35bfe62bf98b1342919cc156aa65cdd42980e4afdd9a5bdab"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:05b1bf69-e7d4-5874-a558-16425bc02d70"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x2f98fa70423965d67dffa5d1bb174a82e04697d536bbc305757ee764a9aa37fc"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:8ba76579-2041-5a2f-a88b-e72a8ea0724e"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x23f23158e4c06d51802f221e2cd87d39854bb06063fe94768aa4aca85c62939f"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:f1024110-c335-56e4-bf87-254efd0ea333"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd9fded84b185401383f97a31ecb7096bdd3567b20100fac1cef41e7a70a91921"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:370acdff-2b5f-5378-bf1e-35585e5b7ca7"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd48f29fdd33da5359652377b47996afc18f411181d5a8c96b039fdfa058643d2"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:32c04932-5a95-56e3-af32-10810ebbe013"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x9caa025565fd8e91ef6c16d118a5e3c9217d908137dc94bcb791630f2cc61007"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:16a4c87d-d6ac-57a5-b394-d567e0ef7c58"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc6e42047f5de7de5afc13fa0755916d77599af0f62b6a25aa935933e718b168f"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:74a7c8c3-50a7-5edd-9b4c-bf03deb4a0eb"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x379854ebd732673ac509a1fa03fdc9b5580520f67264485d57ff5c8e4b7c8c9f"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:3ce992de-e9ea-51d7-b280-34667795277e"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc6754ac0dcaebcb3d91221dcff8e3109be21e9ae13020a65afdc5995633c9cdc"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:7b947076-b8d5-5a7c-b425-be0986ce100c"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xfd96a0d62fba7b9e62e5f65f7a57a49de1622f9f2536e87f8b0a4ebdde943dad"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:ca8459e0-4020-5a88-aa1a-ce6a5e289f58"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x1e72c516b9231692875e9b9ff3b925fd1e76377fe0a7d1a9dfe25289903863bc"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:dd475915-4cd4-5857-bfd3-0432a97039a7"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xb0a7dbac4b9b3b99e777b37a53bb4f44db4b713830069ca42870d95f5e8ba299"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:54d6d12f-1f9d-5089-8d98-f7087a942c2f"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd13c89d2889ef4e59715870d2d3324d77fa11f65b05cc798f5eb3c60f1565ae8"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:a9cebbbc-90ce-5050-a697-c397b14a36dd"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xa7183a5b4c0e9efee9958561cae78133d46b43bb1cedaac9a62c43be4d64e7ea"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:a87a7aca-41a8-5b85-b883-a92a506be02b"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xb10da98d267d3c7530df054a3898e13cbfd1e4319de80eaacd4a1f26c0d8d19d"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:1a3a11f8-8071-5709-978e-92289e33524e"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x0c1175a525b13fca7fe4e6cc5ad18daf915ef57ca5018df42a5098c9af5bbd25"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:8f64734e-a0f3-58cb-9220-aa56f3fd7daf"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xaafa14a7a83a4951e6c86313955e592c1ddad2af89ab8c1fc9ead564d11531f5"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:fcf805bc-5876-53e5-83ab-14c4c3cb4fb7"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xabe4db35755872e95afeb378fde3c69df1501aabfddebdca77f912aa3ebf4563"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:16eac92c-fe48-5c5c-8683-b4160d9db3f1"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x24a38712d3b6b09a9a9ff96d043bfd5151b980e9609ae8c99f93f52b8e998dcf"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:37578525-545f-5e62-a37c-4aecd3ad3411"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x4d47ffd01c981aede7bc25fc7ac24cfac0ec9e7b872996ca79354b5c9c3224ab"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:c685e9a1-c460-55e0-b545-77a2e1da2913"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xdd4dd435db10b23e7d60ad197ff572558501349c382afaa0766628850d6427af"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:24d12a86-7017-52d5-a1af-3f72c5b22dc1"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xcf4d5f72696ce3b5f384f7d88d718d16cd6377fa591133482b6871b068a94069"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:2441cbe4-ca15-571e-b0fb-8f656b157670"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xe2135f348751587c707529537e6608e421382a2b95ddfe8d96ce8591f2bcf122"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:03397c3f-2d76-590d-90a0-384758eb0903"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x914cc6a32453fb842d4cd139df581db2e9c77558aa82a44ba01045c0120e38ad"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:a8b4e9cf-01aa-5e49-a89f-41bb5638e21a"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x6ab1ebe83013b5eca5f8922249f628ca76899439ca20a9cc16b8d7d748f4215a"
+    },
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:a662db72-0163-5fdb-a9a6-744fd67855e0"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x0e3181421318f87bd1cf60205faeb7b71c472d112cefa2d017930cd15d928ded"
+    }
+  ]
+}

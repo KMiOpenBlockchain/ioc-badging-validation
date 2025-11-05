@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x21ba56e4e2cb841102cf2fd599cf45a8f0eebf1e14621312920a101b735d8edd.json",
+  "name": "Aston",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x21ba56e4e2cb841102cf2fd599cf45a8f0eebf1e14621312920a101b735d8edd.json",
+  "description": "Students from over 120 countries choose to study at Aston University - a safe and friendly campus enjoyed by a global, multicultural community. Birmingham is one of the UK's most diverse cities and home to an unrivalled cultural heritage, top sporting events, music, performing arts, and outstanding world cuisine. ",
+  "url": "https://www.aston.ac.uk/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Aston.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x21ba56e4e2cb841102cf2fd599cf45a8f0eebf1e14621312920a101b735d8edd.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

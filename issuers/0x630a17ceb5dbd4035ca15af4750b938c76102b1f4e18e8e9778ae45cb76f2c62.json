@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x630a17ceb5dbd4035ca15af4750b938c76102b1f4e18e8e9778ae45cb76f2c62.json",
+  "name": "University of Gloucestershire",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x630a17ceb5dbd4035ca15af4750b938c76102b1f4e18e8e9778ae45cb76f2c62.json",
+  "description": "The University of Gloucestershire has been offering high quality education to students from all over the world for over 170 years.\nLocated in the beautiful South West of England, the Roman city of Gloucester and the regency town of Cheltenham are surrounded by the picturesque Cotswold countryside, Gloucestershire has something for everyone from chic shopping to the great outdoors. With ideal locations giving easy access to the countryside the university creates a great student experience in terms of balancing study with leisure.",
+  "url": "https://www.glos.ac.uk/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Gloucestershire.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x630a17ceb5dbd4035ca15af4750b938c76102b1f4e18e8e9778ae45cb76f2c62.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

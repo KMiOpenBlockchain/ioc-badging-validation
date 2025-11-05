@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "name": "Institute of Coding",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "description": "The Institute of Coding brings industry, government, higher education and outreach partners together to create new courses, develop existing skills and provide support that attracts fresh talent into digital careers. We empower organisations to bridge the digital skills gap. Working with our partners, we are determined to break down the barriers that discourage people from tech education and careers. We provide different ways to access digital education and design events, courses and training that suit the lifestyle of learners.",
+  "url": "https://instituteofcoding.org",
+  "email": "ioc@bath.ac.uk",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/ioc-logo-blue-cropped.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

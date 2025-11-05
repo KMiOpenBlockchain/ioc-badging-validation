@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "RevocationList",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "revokedAssertions": [
+    {
+      "type": "Assertion",
+      "id": "urn:uuid:e8ab1781-33a2-537e-a14b-bd48352fccdc"
+    },
+    {
+      "type": "Assertion",
+      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x63f0da5a1f4e1da4567ee96c539877a744396a0e119c59651e0a6dc2072eff9e"
+    }
+  ]
+}

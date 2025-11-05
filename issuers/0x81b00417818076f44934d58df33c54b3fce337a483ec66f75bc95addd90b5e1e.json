@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
+  "name": "Manchester Metropolitan University",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
+  "description": "Manchester Metropolitan is a great, modern university, with driving ambition to discover and disseminate knowledge, to make higher education accessible and beneficial to all those with the passion and ability to succeed. \nThe Department of Computing and Mathematics is a vibrant community of staff and students as part of the Faculty of Science and Engineering. We are a large department, but pride ourselves on working with students and external collaborators on a personal level.  We have research strengths in exciting areas that can transform lives for the better including artificial intelligence, big data, computational fluid dynamics, cyber security, dynamical systems, the Internet of Things, smart cities, robotics, and virtual reality.",
+  "url": "https://www2.mmu.ac.uk",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/mmulogo.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

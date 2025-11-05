@@ -1,0 +1,19 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
+  "name": "Queen Mary University of London",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
+  "description": "Queen Mary University of London is one of the UK's leading research universities, committed to improving social justice and achieving the previously unthinkable.",
+  "url": "https://www.qmul.ac.uk/",
+  "email": "ioc@qmul.ac.uk",
+  "telephone": "+442078825555",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/QMLogo.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

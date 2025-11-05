@@ -1,0 +1,17 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "name": "Bath Spa University",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "description": "Bath Spa University offers the opportunity to study in some of the most stunning and inspiring spaces in the UK. From foundation and undergraduate degrees to postgraduate study and research, we're here to nurture your talent during your time at Bath Spa University - and beyond. Our people give Bath Spa its heart. Staff bring passion to their teaching and their areas of expertise, inspiring our students to become thinkers, doers and makers. This, along with our visionary courses and focus on student wellbeing, gives Bath Spa students the skills they need to thrive.",
+  "url": "https://www.bathspa.ac.uk/",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Bath%20Spa.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

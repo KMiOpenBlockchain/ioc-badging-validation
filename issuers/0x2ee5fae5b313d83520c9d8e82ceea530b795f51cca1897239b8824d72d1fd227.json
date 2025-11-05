@@ -1,0 +1,18 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x2ee5fae5b313d83520c9d8e82ceea530b795f51cca1897239b8824d72d1fd227.json",
+  "name": "The Manchester Metropolitan University",
+  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x2ee5fae5b313d83520c9d8e82ceea530b795f51cca1897239b8824d72d1fd227.json",
+  "description": "Manchester Metropolitan University is one of the most extensive higher education centres in Europe with 37,000 students and more than 1,000 undergraduate, postgraduate and professional courses. The University educates and trains large numbers of legal and business professionals, scientists, engineers, teachers, health workers and creative professionals.",
+  "url": "https://www.mmu.ac.uk/",
+  "email": "skillsbootcamps@mmu.ac.uk",
+  "image": {
+    "type": "ImageObject",
+    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/mmulogo.png"
+  },
+  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x2ee5fae5b313d83520c9d8e82ceea530b795f51cca1897239b8824d72d1fd227.json",
+  "verification": {
+    "type": "hosted"
+  }
+}

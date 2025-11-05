@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "CryptographicKey",
+  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "owner": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "publicKeyPem": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBALUcbrbY1Uvt+hfo9DCSyuE2Q6oHlM44SS4EESRLiVwGPQ0wBQUhyhi6\n7NII0JhMm+rPgcDRzLdMiQKLdICKSrcdz50AOZ/jitYgZqXlw1cmhjtSOghloxC3\n7WLFpHPXsvhw7jQxobwoxUase01x/5jXeVwGyj+WpTJxEtvXFcP9AgMBAAE=\n-----END RSA PUBLIC KEY-----"
+}
