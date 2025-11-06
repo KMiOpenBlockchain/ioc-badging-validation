@@ -10,7 +10,7 @@
   "description": "Super Badge awarded for completion of the TechUP Programme",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/TUW2020_super.png",
   "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7.json",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xda826cbeb2f135fef6f89ea79f0735bebbb98cb7d0e650426a39e8cf876fa2c4.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",

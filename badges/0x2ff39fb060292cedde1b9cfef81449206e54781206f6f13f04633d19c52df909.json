@@ -10,7 +10,7 @@
   "description": "Super Badge awarded for completion of all Term 3 Modules",
   "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/term3_super.png",
   "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xec967155bd357d98055b0b759681d71fb2d120be5ebb850e87b60b3ea2a498d7.json",
+  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x34bd777a7bcac0ab4e66c05d7a462bc5bb709d9c4ac80348b348430b7ace3806.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
