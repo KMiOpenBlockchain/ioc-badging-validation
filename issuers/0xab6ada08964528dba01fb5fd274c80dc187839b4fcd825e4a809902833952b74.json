@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
   "name": "Edge Hill University",
-  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
+  "revocationList": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
   "description": "Edge Hill University is based on an attractive, award-winning 160-acre campus in Lancashire, close to Liverpool and Manchester. The institution has been providing higher education since 1885, with a mission to create opportunity from knowledge.",
   "url": "https://www.edgehill.ac.uk/",
   "image": {
     "type": "ImageObject",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/Edgehill.png"
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/logos/Edgehill.png"
   },
-  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
+  "publicKey": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
   "verification": {
     "type": "hosted"
   }

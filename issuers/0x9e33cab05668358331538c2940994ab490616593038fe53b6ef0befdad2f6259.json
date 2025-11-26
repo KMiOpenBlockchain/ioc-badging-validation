@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
   "name": "UWE Bristol",
-  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
+  "revocationList": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
   "description": "At UWE Bristol, we're focused on solving future global challenges through outstanding learning, world-leading research, and a culture of enterprise.\n\nHere, we empower our students to make a choice. To choose a university that pushes itself as much as it pushes them. To choose a community of original thinkers - breaking new boundaries and leading the way.",
   "url": "https://www.uwe.ac.uk",
   "image": {
     "type": "ImageObject",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/UWE.png"
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/logos/UWE.png"
   },
-  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
+  "publicKey": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
   "verification": {
     "type": "hosted"
   }

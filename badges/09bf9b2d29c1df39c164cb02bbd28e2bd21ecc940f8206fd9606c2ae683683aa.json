@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/09bf9b2d29c1df39c164cb02bbd28e2bd21ecc940f8206fd9606c2ae683683aa.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/09bf9b2d29c1df39c164cb02bbd28e2bd21ecc940f8206fd9606c2ae683683aa.json",
   "version": "1.0",
   "name": "Artificial Intelligence",
   "description": "This is a one week course that builds upon an existing knowledge of coding, to learn more about programming, machine learning and Artificial Intelligence with Python.  This course explores the use of AI and machine learning in a wider context, considering some of the implications of AI for society through a series of expert lectures providing different perspectives regarding the application on these computational tools.  An additional thread running through the week is a more detailed and practical introduction to ideas in machine learning, focusing on classification, clustering and generalisation.  Some background in programming in any language is required to participate in this course.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/exeter/artificial_intelligence.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/exeter/artificial_intelligence.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc726052151be33751d408671e75bb6c021a6e989f32b22de6f8b247f6ad81129.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xc726052151be33751d408671e75bb6c021a6e989f32b22de6f8b247f6ad81129.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/2a98464faafa1ee9058d11d83ec31cbe1f0ee39c847ac84e8ab7d39f3edc8a92",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/2a98464faafa1ee9058d11d83ec31cbe1f0ee39c847ac84e8ab7d39f3edc8a92",
     "narrative": "Participants must attend at least 4 days out of 5 to be awarded the digital badge."
   }
 }

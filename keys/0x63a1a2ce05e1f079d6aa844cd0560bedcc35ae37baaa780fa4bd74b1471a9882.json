@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "CryptographicKey",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
-  "owner": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "owner": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
   "publicKeyPem": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAKkqI4cbTmI4DVqBU97bkMLxaKFTyQTnDs3q+dN9tVG4uBbAF77h3mfo\nOrfFVdf13KAUDISpE+mb42y3Kln6V0MDwDaTbUHsqScnEZJnlUwhz/+wjIMWrFKG\nAKj8UJqJCXQf1JMQ3uNLJOZmli0hf3/VKscLEj6RDeT9LWsFetGFAgMBAAE=\n-----END RSA PUBLIC KEY-----"
 }

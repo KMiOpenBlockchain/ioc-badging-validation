@@ -4,20 +4,20 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x8004c2eaf8fc34977e657259ec4b5fb2cf0f9b1c8337d80ab987fd965db1ede6.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x8004c2eaf8fc34977e657259ec4b5fb2cf0f9b1c8337d80ab987fd965db1ede6.json",
   "version": "1.0",
   "name": "TechUPWomen 2020",
   "description": "Super Badge awarded for completion of the TechUP Programme",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/TUW2020_super.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xda826cbeb2f135fef6f89ea79f0735bebbb98cb7d0e650426a39e8cf876fa2c4.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/TUW2020_super.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xda826cbeb2f135fef6f89ea79f0735bebbb98cb7d0e650426a39e8cf876fa2c4.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x65c99ee8b3b7adec9bc13cb1ca5115545f5ef920d81d53520915f084368e26d0",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x65c99ee8b3b7adec9bc13cb1ca5115545f5ef920d81d53520915f084368e26d0",
     "narrative": "Participants must achieve the following badges to be awarded the TechUPWomen Super Badge:\n- Term 1 Super Badge\n- Term 2 Super Badge\n- Term 3 Super Badge"
   }
 }

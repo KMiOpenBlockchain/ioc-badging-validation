@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xc6461b7ee8b0e638b43a7c896e825000f31966161b8c0f9692540681c2d9bb0d.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xc6461b7ee8b0e638b43a7c896e825000f31966161b8c0f9692540681c2d9bb0d.json",
   "version": "1.0",
   "name": "Agile Business Analysis",
   "description": "Participants will undertake the Agile BA Foundation Accredited Certification, which provides an introduction to the best practices and approaches of Agile Business Analysis. Participants will gain an in-depth knowledge of Agile principles and will know how to deliver valuable solutions when working with stakeholders.\n\nThis course is an accrediated certification from KPMG. To prove completion of this course, the students must provide a copy of the exam pass certificate. \nThe exam is multiple choice, 50 questions per paper\n25 marks required to pass (out of 50 available) - 50%\n40 minute duration, closed-book. \n\nIn addition participants will undertake supplmentary topics on User Stories, Business Benefits Realisation, Requirement Lifecycle Analysis, Developing Effective Requirements, Business Analyst and Project Manager Collaboration and Agile Product Owner Role.\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Agile_Business_Analysis.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Agile_Business_Analysis.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x199e8851aa8eae27a879407fc6ce9c8f0f300e1f5f9f1ada5e1529612133430a.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x199e8851aa8eae27a879407fc6ce9c8f0f300e1f5f9f1ada5e1529612133430a.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xf9e2ccc4929db6d177a9b814186e121dc6c74438de663611db91a11f9d80a156",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xf9e2ccc4929db6d177a9b814186e121dc6c74438de663611db91a11f9d80a156",
     "narrative": "Participants must complete all the online courses and the associated exams to be awarded the digital badge."
   }
 }

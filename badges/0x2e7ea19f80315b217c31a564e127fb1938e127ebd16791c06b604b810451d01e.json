@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x2e7ea19f80315b217c31a564e127fb1938e127ebd16791c06b604b810451d01e.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x2e7ea19f80315b217c31a564e127fb1938e127ebd16791c06b604b810451d01e.json",
   "version": "2.0",
   "name": "BSU-IOC Cyber Security Digital Skills Bootcamp",
   "description": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Cyber Security. Students learnt skills to embark on a career in Cyber Security. Topics studied include attack hosts, vectors and malware, auditing and encryption, computer forensics, Enterprise security architecture, cryptography, incident response, risk management mitigation of social engineering and brand management. In addition to core content, learners participate in employability skills sessions supported by Bath College. The course was completed within the time period of March 2022- March 2023.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_cyber_security_digital_skills_bootcamp__03_2022_03_2023__55.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_cyber_security_digital_skills_bootcamp__03_2022_03_2023__55.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x42f442a9d8c2106b9e25bd0bd8b9af1f27cd889c69cd10f45b70295eeec58059.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x42f442a9d8c2106b9e25bd0bd8b9af1f27cd889c69cd10f45b70295eeec58059.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x4fd6729918bfb7d2689c5a01d4a14e90fe35e5d2aaa105da09df604e441c0ec2",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x4fd6729918bfb7d2689c5a01d4a14e90fe35e5d2aaa105da09df604e441c0ec2",
     "narrative": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Cyber Security. Students learnt skills to embark on a career in Cyber Security. Topics studied include attack hosts, vectors and malware, auditing and encryption, computer forensics, Enterprise security architecture, cryptography, incident response, risk management mitigation of social engineering and brand management. Students complete 21 hours of live teaching alongside employability sessions which focus on career planning, self development and confidence and CV skills. Students also complete 8 hours of independent study. The course is designed for those seeking new employment within Cyber Security. ",
     "criteriaSkills": [
       {

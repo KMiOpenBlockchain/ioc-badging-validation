@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x89b22ebe2603f68677e847e00b0d0115ab5dd88ff3c995396dc57ca6926d2c3f.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x89b22ebe2603f68677e847e00b0d0115ab5dd88ff3c995396dc57ca6926d2c3f.json",
   "version": "1.0",
   "name": "Best Trading Strategy",
   "description": "The LSE 2021 Python Coding Challenge focussed on financial services, utilising a cutting-edge virtual exchange developed by our employer sponsor, Optiver. Participants worked in interdisciplinary teams to develop trading algorithms in Python, testing and then optimising the algorithm's performance to achieve the best possible trading outcome. They then presented their processes and learning to a panel of judges from LSE Careers, LSE Digital Skills Lab, and employer-sponsor Optiver.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/best_trading_strategy_14.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/best_trading_strategy_14.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x112682287c7f9cdff0c14db662981416e11e2713c337bb1196b04eee2b1a3aea.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x112682287c7f9cdff0c14db662981416e11e2713c337bb1196b04eee2b1a3aea.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xcd51b9abf0d0cad5f3a8c76839ffbe4d5399e0ecc8e5b34c1a028e6cf1ab5b5d",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xcd51b9abf0d0cad5f3a8c76839ffbe4d5399e0ecc8e5b34c1a028e6cf1ab5b5d",
     "narrative": "Holders of this badge participated in the 2021 Python Coding Challenge by Optiver and were part of the team judged to have employed the best trading strategy by the judging panel. The judging panel consisted of LSE staff from the Careers Service and Digital Skills Lab, and Optiver's Lecturer and Head of Academic Partnerships.\n\nTeam performance was automatically ranked by the virtual exchange platform provided by Optiver. Teams were then asked to explain, as part of their final presentation submission, how they approached the development of their trading strategy and evaluated and adapted their approach over the weeks leading up to the final competition. This information was then evaluated by the judging panel in conjunction with their ultimate ranking in the final trading competition. The winners of this badge were the highest scorers across both criteria."
   }
 }

@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x3ef55242db3ddda661ea0c0dda592ae1ee2178927221ba014e5050a1fdcba6fb.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x3ef55242db3ddda661ea0c0dda592ae1ee2178927221ba014e5050a1fdcba6fb.json",
   "version": "1",
   "name": "UWE-IOC Games Technology & Commercial Games Development Bootcamp",
   "description": "This digital badge confirms successful completion of the 17 week UWE-IOC Games Technology and Commercial Games Development Bootcamp. The bootcamp was delivered from 8th November 2021 to 25th March 2022 via online lectures, taught workshops and individual project support hosted by the Foundry. Topics studied included C# scripting, developing systems, UI design, scene management, basic AI and animations. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x0831e7b009661d48b1be800347f1afa70348acfc256913f77b56e2d4a65de775/games_technology___commercial_games_development_31.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x0831e7b009661d48b1be800347f1afa70348acfc256913f77b56e2d4a65de775/games_technology___commercial_games_development_31.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x9e33cab05668358331538c2940994ab490616593038fe53b6ef0befdad2f6259.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xd089887f25fc716e6bcbb7c3e837dc52dd547b5133799a0b5e958afce848fe12",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xd089887f25fc716e6bcbb7c3e837dc52dd547b5133799a0b5e958afce848fe12",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x70ed34323b2bcaffb52ebf548f802a72cb8a900af0ed0df2c69b6867412c8c5d.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x70ed34323b2bcaffb52ebf548f802a72cb8a900af0ed0df2c69b6867412c8c5d.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xe9550916c59141f162edd875226e583e29bb63a8bc19bc1a67048c3a20d1ba4e",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xe9550916c59141f162edd875226e583e29bb63a8bc19bc1a67048c3a20d1ba4e",
     "narrative": "This digital badge confirms successful completion of the Games Technology and Commercial Games Development Bootcamp, in which learners demonstrated competence in the following skills:\n\nComputational thinking\nPython and C# programming\nSource control using Git\nUnity basics (creating, importing, templates),\nSelf-directed development from design concept to product\nAn understanding of game design theories",
     "criteriaSkills": [
       {

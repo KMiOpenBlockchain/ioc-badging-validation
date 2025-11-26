@@ -1,272 +1,272 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "RevocationList",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "revokedAssertions": [
     {
       "type": "Assertion",
-      "id": "urn:uuid:4750fc54-a044-5fb3-9ae5-fc4911f77339"
+      "id": "urn:uuid:9e1c6838-6cac-551d-8d74-1d3f57bc6595"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x28ee7d59d56fb7e3b2bfdecf824048655fada135418eb261692f6edc15886f1b"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x28ee7d59d56fb7e3b2bfdecf824048655fada135418eb261692f6edc15886f1b"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:23ab81cb-55a7-5f44-9624-16ca847a7b9b"
+      "id": "urn:uuid:a4dd4242-9d76-512c-8ca3-27a271b4bdaa"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x058dcee81dc33cecdb0c851a8c5ce044265c18204361d2d9c624757da293580b"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x058dcee81dc33cecdb0c851a8c5ce044265c18204361d2d9c624757da293580b"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:5cd631f1-7aaf-5bbb-8d8a-6b74f8b77fc4"
+      "id": "urn:uuid:d5aa453c-f510-5086-accc-b7ee3b8cbb9f"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x7c430cd3d5de4d4ccca9a7ebdfbb5aa369b02f5380b639175c86ef8ef09ef8e7"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x7c430cd3d5de4d4ccca9a7ebdfbb5aa369b02f5380b639175c86ef8ef09ef8e7"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:1e0ee07f-1437-585e-b3fa-3b95b697561a"
+      "id": "urn:uuid:c573de5a-653e-567c-9cb3-327b72809e5b"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x33fff1ed9ef5602d252ba56f3846830ce2ee171d39cdb5906cf5475fb19b915e"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x33fff1ed9ef5602d252ba56f3846830ce2ee171d39cdb5906cf5475fb19b915e"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:802930ba-5335-5068-b092-0b82ecf6b6fd"
+      "id": "urn:uuid:7e795030-d7a0-5818-854d-f954f4c026c2"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x2f623259892a8e79ad5fe63241997eb5123e2bf456bf062aa09c0f6b64238833"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x2f623259892a8e79ad5fe63241997eb5123e2bf456bf062aa09c0f6b64238833"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:0156111b-5d80-5fc4-84c8-ac4c4328e225"
+      "id": "urn:uuid:278a6668-699f-546a-83e1-a6a6601dc4b3"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x9dccf463218785133f4220b9215e6e8f6e2d189166101fdae4d7fd20f5f256a1"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x9dccf463218785133f4220b9215e6e8f6e2d189166101fdae4d7fd20f5f256a1"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:6df9ee8f-236e-529f-8978-e84ddc256a79"
+      "id": "urn:uuid:0ba5b431-b792-5f31-b0b5-9f75066d69e1"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xe53584093092eaf84deea5982f5e1b7e7b3a9325c2dfe6297ab8a6e4cf988df5"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xe53584093092eaf84deea5982f5e1b7e7b3a9325c2dfe6297ab8a6e4cf988df5"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:08dab637-795c-5991-830c-99e9ca88572a"
+      "id": "urn:uuid:fbae7054-8a06-57fb-9421-a8e1b027fa2c"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc0155fd8a4e6c1b35bfe62bf98b1342919cc156aa65cdd42980e4afdd9a5bdab"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xc0155fd8a4e6c1b35bfe62bf98b1342919cc156aa65cdd42980e4afdd9a5bdab"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:05b1bf69-e7d4-5874-a558-16425bc02d70"
+      "id": "urn:uuid:01ea35f7-ec0e-5a5a-9885-dd028d981c6d"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x2f98fa70423965d67dffa5d1bb174a82e04697d536bbc305757ee764a9aa37fc"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x2f98fa70423965d67dffa5d1bb174a82e04697d536bbc305757ee764a9aa37fc"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:8ba76579-2041-5a2f-a88b-e72a8ea0724e"
+      "id": "urn:uuid:07fcc2d8-c334-56cd-9626-c03f06a6b3c9"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x23f23158e4c06d51802f221e2cd87d39854bb06063fe94768aa4aca85c62939f"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x23f23158e4c06d51802f221e2cd87d39854bb06063fe94768aa4aca85c62939f"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:f1024110-c335-56e4-bf87-254efd0ea333"
+      "id": "urn:uuid:6b53e7ea-8097-52cc-a3cc-791e21e99c20"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd9fded84b185401383f97a31ecb7096bdd3567b20100fac1cef41e7a70a91921"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xd9fded84b185401383f97a31ecb7096bdd3567b20100fac1cef41e7a70a91921"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:370acdff-2b5f-5378-bf1e-35585e5b7ca7"
+      "id": "urn:uuid:c8362c23-8862-51dc-8cb7-7a269ec324fc"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd48f29fdd33da5359652377b47996afc18f411181d5a8c96b039fdfa058643d2"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xd48f29fdd33da5359652377b47996afc18f411181d5a8c96b039fdfa058643d2"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:32c04932-5a95-56e3-af32-10810ebbe013"
+      "id": "urn:uuid:28166e0c-25c2-58d0-8200-7db3e28ea53c"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x9caa025565fd8e91ef6c16d118a5e3c9217d908137dc94bcb791630f2cc61007"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x9caa025565fd8e91ef6c16d118a5e3c9217d908137dc94bcb791630f2cc61007"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:16a4c87d-d6ac-57a5-b394-d567e0ef7c58"
+      "id": "urn:uuid:f3f2b231-0c11-5b52-b19c-e50254459573"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc6e42047f5de7de5afc13fa0755916d77599af0f62b6a25aa935933e718b168f"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xc6e42047f5de7de5afc13fa0755916d77599af0f62b6a25aa935933e718b168f"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:74a7c8c3-50a7-5edd-9b4c-bf03deb4a0eb"
+      "id": "urn:uuid:32217703-6387-507b-8493-54c0678de7b2"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x379854ebd732673ac509a1fa03fdc9b5580520f67264485d57ff5c8e4b7c8c9f"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x379854ebd732673ac509a1fa03fdc9b5580520f67264485d57ff5c8e4b7c8c9f"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:3ce992de-e9ea-51d7-b280-34667795277e"
+      "id": "urn:uuid:92ba6665-5ea1-53d2-95b2-627c2c2e8911"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xc6754ac0dcaebcb3d91221dcff8e3109be21e9ae13020a65afdc5995633c9cdc"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xc6754ac0dcaebcb3d91221dcff8e3109be21e9ae13020a65afdc5995633c9cdc"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:7b947076-b8d5-5a7c-b425-be0986ce100c"
+      "id": "urn:uuid:5e53115e-7dda-566e-80f8-bba67bf49ba8"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xfd96a0d62fba7b9e62e5f65f7a57a49de1622f9f2536e87f8b0a4ebdde943dad"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xfd96a0d62fba7b9e62e5f65f7a57a49de1622f9f2536e87f8b0a4ebdde943dad"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:ca8459e0-4020-5a88-aa1a-ce6a5e289f58"
+      "id": "urn:uuid:676c2d64-7066-528c-9585-bd83f092fbe4"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x1e72c516b9231692875e9b9ff3b925fd1e76377fe0a7d1a9dfe25289903863bc"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x1e72c516b9231692875e9b9ff3b925fd1e76377fe0a7d1a9dfe25289903863bc"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:dd475915-4cd4-5857-bfd3-0432a97039a7"
+      "id": "urn:uuid:3a37d8d1-b267-57b8-a05f-8098c64461e4"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xb0a7dbac4b9b3b99e777b37a53bb4f44db4b713830069ca42870d95f5e8ba299"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xb0a7dbac4b9b3b99e777b37a53bb4f44db4b713830069ca42870d95f5e8ba299"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:54d6d12f-1f9d-5089-8d98-f7087a942c2f"
+      "id": "urn:uuid:da0848e9-0759-5131-b8c0-3e432a72acf7"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xd13c89d2889ef4e59715870d2d3324d77fa11f65b05cc798f5eb3c60f1565ae8"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xd13c89d2889ef4e59715870d2d3324d77fa11f65b05cc798f5eb3c60f1565ae8"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:a9cebbbc-90ce-5050-a697-c397b14a36dd"
+      "id": "urn:uuid:7bf6c0b8-2509-5bd8-af4b-1b57215f6ac0"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xa7183a5b4c0e9efee9958561cae78133d46b43bb1cedaac9a62c43be4d64e7ea"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xa7183a5b4c0e9efee9958561cae78133d46b43bb1cedaac9a62c43be4d64e7ea"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:a87a7aca-41a8-5b85-b883-a92a506be02b"
+      "id": "urn:uuid:a95a647b-ce45-53ac-9ed8-d1c067e86874"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xb10da98d267d3c7530df054a3898e13cbfd1e4319de80eaacd4a1f26c0d8d19d"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xb10da98d267d3c7530df054a3898e13cbfd1e4319de80eaacd4a1f26c0d8d19d"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:1a3a11f8-8071-5709-978e-92289e33524e"
+      "id": "urn:uuid:22b6a866-c30a-58ab-8cc0-c9831a0d381f"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x0c1175a525b13fca7fe4e6cc5ad18daf915ef57ca5018df42a5098c9af5bbd25"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x0c1175a525b13fca7fe4e6cc5ad18daf915ef57ca5018df42a5098c9af5bbd25"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:8f64734e-a0f3-58cb-9220-aa56f3fd7daf"
+      "id": "urn:uuid:37cb0627-5f0c-5e81-a77c-8e033fb6b11f"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xaafa14a7a83a4951e6c86313955e592c1ddad2af89ab8c1fc9ead564d11531f5"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xaafa14a7a83a4951e6c86313955e592c1ddad2af89ab8c1fc9ead564d11531f5"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:fcf805bc-5876-53e5-83ab-14c4c3cb4fb7"
+      "id": "urn:uuid:bf1af678-81df-5582-8419-93855d91a8c4"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xabe4db35755872e95afeb378fde3c69df1501aabfddebdca77f912aa3ebf4563"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xabe4db35755872e95afeb378fde3c69df1501aabfddebdca77f912aa3ebf4563"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:16eac92c-fe48-5c5c-8683-b4160d9db3f1"
+      "id": "urn:uuid:242d303b-58d6-5805-abc6-46468322d2a7"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x24a38712d3b6b09a9a9ff96d043bfd5151b980e9609ae8c99f93f52b8e998dcf"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x24a38712d3b6b09a9a9ff96d043bfd5151b980e9609ae8c99f93f52b8e998dcf"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:37578525-545f-5e62-a37c-4aecd3ad3411"
+      "id": "urn:uuid:297c10f6-4ea5-50f6-97bb-f939471f5faa"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x4d47ffd01c981aede7bc25fc7ac24cfac0ec9e7b872996ca79354b5c9c3224ab"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x4d47ffd01c981aede7bc25fc7ac24cfac0ec9e7b872996ca79354b5c9c3224ab"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:c685e9a1-c460-55e0-b545-77a2e1da2913"
+      "id": "urn:uuid:8389a73b-aebe-54a4-bdf2-0181104dfc39"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xdd4dd435db10b23e7d60ad197ff572558501349c382afaa0766628850d6427af"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xdd4dd435db10b23e7d60ad197ff572558501349c382afaa0766628850d6427af"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:24d12a86-7017-52d5-a1af-3f72c5b22dc1"
+      "id": "urn:uuid:71a3c5f2-a21a-5c79-a7f0-f67daf7462f6"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xcf4d5f72696ce3b5f384f7d88d718d16cd6377fa591133482b6871b068a94069"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xcf4d5f72696ce3b5f384f7d88d718d16cd6377fa591133482b6871b068a94069"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:2441cbe4-ca15-571e-b0fb-8f656b157670"
+      "id": "urn:uuid:422bae54-d249-52af-883d-44f814254e14"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0xe2135f348751587c707529537e6608e421382a2b95ddfe8d96ce8591f2bcf122"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0xe2135f348751587c707529537e6608e421382a2b95ddfe8d96ce8591f2bcf122"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:03397c3f-2d76-590d-90a0-384758eb0903"
+      "id": "urn:uuid:d38dcc4b-b9d5-5da8-9673-7563d41c688f"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x914cc6a32453fb842d4cd139df581db2e9c77558aa82a44ba01045c0120e38ad"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x914cc6a32453fb842d4cd139df581db2e9c77558aa82a44ba01045c0120e38ad"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:a8b4e9cf-01aa-5e49-a89f-41bb5638e21a"
+      "id": "urn:uuid:4c17bd67-0dae-5253-b640-a6db4ea79265"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x6ab1ebe83013b5eca5f8922249f628ca76899439ca20a9cc16b8d7d748f4215a"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x6ab1ebe83013b5eca5f8922249f628ca76899439ca20a9cc16b8d7d748f4215a"
     },
     {
       "type": "Assertion",
-      "id": "urn:uuid:a662db72-0163-5fdb-a9a6-744fd67855e0"
+      "id": "urn:uuid:aae14ebf-d6ba-5eeb-a534-919e9360ea01"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x0e3181421318f87bd1cf60205faeb7b71c472d112cefa2d017930cd15d928ded"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x0e3181421318f87bd1cf60205faeb7b71c472d112cefa2d017930cd15d928ded"
     }
   ]
 }

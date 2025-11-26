@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xf34e5fe9ffbaa2a23f04c2039e76155d18eff0146f5bcf83205af16297402cc0.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xf34e5fe9ffbaa2a23f04c2039e76155d18eff0146f5bcf83205af16297402cc0.json",
   "version": "3.0",
   "name": "Python for Accounting",
   "description": "This is a two part introductory coding workshop series on the basics of using Python for Accounting/Finance purposes. These sessions train participants in using Python to download financial data, analysing data and visualising data by solving a series of tasks in teams by applying knowledge from online courses, using web searches and getting support from trainers. The libraries used in the workshops are pandas_datareader, pandas, matplotlib and seaborn.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_for_accounting_87.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_for_accounting_87.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x5d50ee296ce65650e2cfdc51704fa01685c14799bb7d15349340de46e58a004d.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x5d50ee296ce65650e2cfdc51704fa01685c14799bb7d15349340de46e58a004d.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xe448ddcc2a664742b7878186ec00965fdab61c59cc3a72d4e24e479a6f165479",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xe448ddcc2a664742b7878186ec00965fdab61c59cc3a72d4e24e479a6f165479",
     "narrative": "This badge is awarded to people who have attended the following two python workshops, presented by the Digital Skills Lab at London School of Economics and Political Science:\n\n\nPython for Accounting workshop 1: Practical online session in which participants worked through a series of tasks in teams. \nTasks that participants were carrying out included:\n-    Downloading financial data from yahoo finance with pandas_datareader library\n-    Creating single and multiple line plots with matplotlib\n-    Customizing line plots with matplotlib\n-    Transforming datasets/calculating new columns with pandas\n-    Calculating stock returns\n-    Calculating annual and monthly returns\n\nPython for Accounting workshop 2: Practical online session in which participants worked through a series of tasks in teams. \nTasks that participants were carrying out included:\n-    Creating subplots with matplotlib\n-    Customizing subplots with matplotlib\n-    Using for loops \n-    Combining datasets with pandas\n-    Aggregating datasets with pandas\n-    Plotting barplots with seaborn"
   }
 }

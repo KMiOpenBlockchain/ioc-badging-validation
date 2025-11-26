@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xd1f12670519ac808f93f79546947d9b05eaecddc971aa828fdb3fb53239ca015.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xd1f12670519ac808f93f79546947d9b05eaecddc971aa828fdb3fb53239ca015.json",
   "version": "1.0",
   "name": "Advanced Data Science",
   "description": "Participants will complete a 6 part online training course covering:\n- An introduction to data science\n- Explanation of the scientific method, hypotheses, experiment design, analysis, reporting.\n- Data collection\n- Data distributions, introduction to the basic statistics useful for data science\n- Data visualisation methods\n- Hypothesis testing.\n- Ethics of data science.\n\nThere is no evidence to be submitted for the completion of these modules, once the materials have been reviewed the students self declare completion.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Advanced_Data_Science.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Advanced_Data_Science.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xf4cf0c51b4e036eb52035d6a3f7f08c57c99a9649e3ee1fbf18bec539223e8ca.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xf4cf0c51b4e036eb52035d6a3f7f08c57c99a9649e3ee1fbf18bec539223e8ca.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x4462ab82c86a64c56ac15f88520212b3217f62c0901fc5e54ee69eb5293263f1",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x4462ab82c86a64c56ac15f88520212b3217f62c0901fc5e54ee69eb5293263f1",
     "narrative": "Participants must complete the whole online course and the associated exercises to be awarded the digital badge."
   }
 }

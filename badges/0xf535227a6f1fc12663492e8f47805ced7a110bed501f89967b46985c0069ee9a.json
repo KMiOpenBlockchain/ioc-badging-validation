@@ -4,11 +4,11 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xf535227a6f1fc12663492e8f47805ced7a110bed501f89967b46985c0069ee9a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xf535227a6f1fc12663492e8f47805ced7a110bed501f89967b46985c0069ee9a.json",
   "version": "1.0",
   "name": "Digital thinking tools",
   "description": "In today's world, we are often presented with conflicting information from different sources. Being able to critically analyse and assess this information is a key skill. This course introduces you to digital argument mapping to help you analyse information locked up in text. It will show you how to write small computer programs to help you assess information, draw conclusions and make decisions. Some parts of the course will make use of the popular Python programming language - useful not just for numerical calculations, but also, for instance, reasoning about sentences and sets of objects.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/openlearn/digitalthinking-2020.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/openlearn/digitalthinking-2020.png",
   "tags": [
     "argument mapping",
     "argument diagramming",
@@ -20,25 +20,25 @@
     "AI",
     "Python"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x04b4a18f882e31329353a6d8b15b66c90d14543e500dd9c6c05c1971c2e163d9.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x04b4a18f882e31329353a6d8b15b66c90d14543e500dd9c6c05c1971c2e163d9.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x99d7bc652d6dc5ea7379ddb0bad5d7a3212013d9f14367fb25651c9e2ec3739a",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x99d7bc652d6dc5ea7379ddb0bad5d7a3212013d9f14367fb25651c9e2ec3739a",
     "narrative": "After studying this course, you should be able to:\n-\tdescribe how digital thinking tools extend our natural capabilities \n-\tuse digital thinking tools to find information\n-\tuse digital thinking tools to analyse information\n-\tuse digital thinking tools to reason about information\n-\tdiscuss the future of digital thinking tools in relation to artificial intelligence.\nCompleting a course will require about 24 hours of study time. However, you can study the course at any time and at a pace to suit you.\nTo get a badge you need to:\n-\tread each session of the course\n-\tscore 50% or more in the two badge quizzes in Session 4 and Session 8 (please note that if you reattempt the quiz, the questions will differ from those on your previous attempt) "
   }
 }

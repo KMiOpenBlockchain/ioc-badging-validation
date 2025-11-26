@@ -1,7 +1,7 @@
 {
 	"@context": "https://w3id.org/openbadges/v2",
 	"type": "Issuer",
-	"id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsers/0xf61ea505209ab62a4d334afe89c561193544e1fbfdc77238c8c27930a9382f34.json",
+	"id": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsers/0xf61ea505209ab62a4d334afe89c561193544e1fbfdc77238c8c27930a9382f34.json",
 	"name": "Institute of Coding",
 	"description": "Our mission is to break down barriers to digital learning and employment. We believe learning should be a lifelong process and that everyone has a right to improve their skills. We want to spread opportunity by offering access to education, providing what you need, when you need it, in a place you can reach.",
 	"url": "https://instituteofcoding.org/",

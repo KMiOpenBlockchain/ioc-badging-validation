@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x170e83b879958de2dc826521b5e8ea3d8dac5af15335830def81bcb746ef4cb4.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x170e83b879958de2dc826521b5e8ea3d8dac5af15335830def81bcb746ef4cb4.json",
   "version": "1.0",
   "name": "BSU-IOC Web Development Digital Skills Bootcamp",
   "description": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Web Development. Students learn skills to embark on a career in web development. Topics studied include HTML5, CSS3, JavaScript and building websites in React. In addition to core content, learners will complete a portfolio and participate in employability skills sessions supported by Bath College. The course was completed within the time period of September 2021-March 2022.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp_46.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_web_development_digital_skills_bootcamp_46.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc6a0efdbdedc1b552c355c3882733c3beceb05ab988859c2274e0e3c616e0b94.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xc6a0efdbdedc1b552c355c3882733c3beceb05ab988859c2274e0e3c616e0b94.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x4fa911bff6d7ae6dabe0c248a411aba317ee036355e1982bb352699c3dd69093",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x4fa911bff6d7ae6dabe0c248a411aba317ee036355e1982bb352699c3dd69093",
     "narrative": "This digital badge confirms the successful completion of the Skills Bootcamp in Web Development, in which learners demonstrate competence in the following skills: HTML5, CSS3, JavaScript, how to build interactivity and validation into complex websites, how to use third party APIs to build and complete applications, knowledge on modern frameworks and libraries, how to build websites in React. Students complete 21 hours of live teaching alongside employability sessions which focus on career planning, self development and confidence and CV skills. Students also complete 8 hours of independent study. The course is designed for those seeking new employment within front end web development. ",
     "criteriaSkills": [
       {

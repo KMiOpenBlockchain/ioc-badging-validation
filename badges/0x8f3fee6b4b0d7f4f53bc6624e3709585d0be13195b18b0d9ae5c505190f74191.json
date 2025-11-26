@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x8f3fee6b4b0d7f4f53bc6624e3709585d0be13195b18b0d9ae5c505190f74191.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x8f3fee6b4b0d7f4f53bc6624e3709585d0be13195b18b0d9ae5c505190f74191.json",
   "version": "1.0",
   "name": "Computer Systems, Algorithms and Data Structures",
   "description": "This is a collection of 3 online courses plus supplementary materials which cover understanding how components of a computer system interact with each other, SQL programming and number systems. The module also covers Data Structures inluding Dynamic arrays, queues and stacks, heaps and priority queues, has table/associate array, algorithms, linked lists, binary trees and binary search trees, union find/disjoint set and Fenwick tree/binary indexed tree.\n\nTo prove completion of the online courses, the student must provide a copy of the course completion certificates provided by the course provider. We do not have access to course providers assessment criteria.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Comp_Cys_Al_Data_Struc.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Comp_Cys_Al_Data_Struc.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x96cedb591595c25c1e1786418e0ee1cd48ee0559d20b157727ae487064afb8cf.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x96cedb591595c25c1e1786418e0ee1cd48ee0559d20b157727ae487064afb8cf.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x650b3cc3af0c2dfe7c8ffe9db040863327ee9564f023fc39408075601cbb6cf7",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x650b3cc3af0c2dfe7c8ffe9db040863327ee9564f023fc39408075601cbb6cf7",
     "narrative": "Participants must complete all 3 online course and review the supplementary materials to be awarded the digital badge."
   }
 }

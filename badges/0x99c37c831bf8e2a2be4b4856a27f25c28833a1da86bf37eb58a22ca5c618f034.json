@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x99c37c831bf8e2a2be4b4856a27f25c28833a1da86bf37eb58a22ca5c618f034.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x99c37c831bf8e2a2be4b4856a27f25c28833a1da86bf37eb58a22ca5c618f034.json",
   "version": "1.0",
   "name": "Strategic Management of Technology",
   "description": "Two online courses will help participants develop a critical understanding of technological innovation and management by understanding the issues around defining 'technology', 'innovation' and 'innovation management'. Participants will gain an understanding of competitive advantage and various business models and tools such as Porters 5 Forces, SWOT, Pest and Value Chain Analysis.\n\nCourse 1 - To prove completion of the online course, the student must provide a copy of the course completion certificate provided by the course provider. We do not have access to course providers assessment criteria.\n\nCourse 2 - There is no evidence to be submitted for the completion of these modules, once the materials have been reviewed the students self declare completion.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Strategic_Management_Technology.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Strategic_Management_Technology.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x0bbd408b9d4f761e37445ebea4aa2210c7d5d12916f0833c2dba9b9367e1c843.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x0bbd408b9d4f761e37445ebea4aa2210c7d5d12916f0833c2dba9b9367e1c843.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x2b1013ddc13981f4026de6c05592dc57620c4f65de81bbdf116d6171829acc2c",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x2b1013ddc13981f4026de6c05592dc57620c4f65de81bbdf116d6171829acc2c",
     "narrative": "Participants must complete all the online courses and the associated exercises to be awarded the digital badge."
   }
 }

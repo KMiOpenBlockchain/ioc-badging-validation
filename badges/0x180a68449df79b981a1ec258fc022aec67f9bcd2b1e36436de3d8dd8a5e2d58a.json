@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x180a68449df79b981a1ec258fc022aec67f9bcd2b1e36436de3d8dd8a5e2d58a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x180a68449df79b981a1ec258fc022aec67f9bcd2b1e36436de3d8dd8a5e2d58a.json",
   "version": "1.0",
   "name": "Advanced Programming",
   "description": "A collection of three online courses which build on the introduction to Python course earlier in the programme and introduce two new programming languages R and Javascript. \n\nCourse 1 - To prove completion of the online course, the student must provide a copy of the course completion certificate provided by the course provider. We do not have access to course providers assessment criteria.\n\nCourse 2 - There is no evidence to be submitted for the completion of these modules, once the materials have been reviewed the students self declare completion.\n\nCourse 3 - There is no evidence to be submitted for the completion of these modules, once the materials have been reviewed the students self declare completion.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Advanced_Programming.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Advanced_Programming.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x46065a516521f6b52b379e7d54406c159072c0ceaf98a9a5952a10d51c011bbd.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x46065a516521f6b52b379e7d54406c159072c0ceaf98a9a5952a10d51c011bbd.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xb3b9102231b8298cd0e86776a611bc10ec488c6bc752319547168319ac37ea6a",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xb3b9102231b8298cd0e86776a611bc10ec488c6bc752319547168319ac37ea6a",
     "narrative": "Participants must complete all the online courses and the associated exercises to be awarded the digital badge."
   }
 }

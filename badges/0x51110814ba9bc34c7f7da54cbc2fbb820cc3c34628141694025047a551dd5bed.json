@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x51110814ba9bc34c7f7da54cbc2fbb820cc3c34628141694025047a551dd5bed.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x51110814ba9bc34c7f7da54cbc2fbb820cc3c34628141694025047a551dd5bed.json",
   "version": "1.0",
   "name": "R Data Wrangling",
   "description": "The R Data Wrangling workshops are a series of practical workshops that follow along from the R Fundamentals workshops, taking students thought the fundamentals skills of wrangling datasets. Each workshop has a series of exercises and challenges where students either write their own code or debug code that has been provided to get the desired outcome. \n\nDuring the series, students learn some of the key elements of wrangling data using the tidyverse ecosystem including: piping, selecting columns, creating, modifying , and delete columns with mutate, filtering data, tidying up column names, aggregations using count, group by, and summarise, and how to join up relational datasets. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_data_wrangling_41.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_data_wrangling_41.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xbb0c1906116e983801ffc41a9b399738e8421378755bab47f7a3eda16baf9526.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xbb0c1906116e983801ffc41a9b399738e8421378755bab47f7a3eda16baf9526.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xbb242cbdddc80521a128f60f0d30cbca7fea14b27a8950195ac9bff9098797ff",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xbb242cbdddc80521a128f60f0d30cbca7fea14b27a8950195ac9bff9098797ff",
     "narrative": "This badge is awarded to people who attended at least two of three workshops in the R Data Wrangling workshop series. "
   }
 }

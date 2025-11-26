@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x9f43bc09f6493e1b12a02e17025437ce3b22724e92ea1ce037c7d9f3f22ed89d.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x9f43bc09f6493e1b12a02e17025437ce3b22724e92ea1ce037c7d9f3f22ed89d.json",
   "version": "1.0",
   "name": "AI for Social Sciences",
   "description": "AI for Social Science is an open-offering course for LSE students developed in partnership between the Digital Skills Lab and the LSE-incubated AI startup PigeonLine. This 3 module course will introduce AI to students, researchers and professionals, with a focus on practical lessons rather than coding or programming. The goal is to equip you to navigate new and emerging tools that are changing the nature of our work.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/ai_for_social_sciences_9.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/ai_for_social_sciences_9.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xa902927184b1726d26c2a781840bd98d7efcc902be65d1c274ab832a3d7c9bcd.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xa902927184b1726d26c2a781840bd98d7efcc902be65d1c274ab832a3d7c9bcd.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xbe20462c3e9af609aac41683098b902eceb1f89795256b2e22d7ee921f4f0668",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xbe20462c3e9af609aac41683098b902eceb1f89795256b2e22d7ee921f4f0668",
     "narrative": "The course consists of 3 modules, each containing explanatory videos and readings on various aspects of AI for social sciences. The course details are broken down as follows:\n\nModule 1: Introduction to AI for Professionals\n-\tVideo 1 - Defining AI This video will introduce competing definitions of AI\n-\tVideo 2 - Types of AI          This video will introduce specific and practical examples of AI\n-\tArticle - Amershi, S. et. al. (2014)       This article is written by influential computer scientists and challenges traditional views of systems versus humans\n-\tVideo 3 - Anatomy of AI     This video helps you recognize the underlying parts that make AI whole\n-\tQuiz       You will be tested on your ability to define and recognize various dimensions of AI\n\nModule 2: An introduction to Natural Language Processing\n-\tVideo 1 - Natural language processing   This video will introduce core NLP approaches\n-\tVideo 2 - Bias       This video will introduce practical examples of how bias is introduced into text-based AI\n-\tArticle - Sun, T. et. al. (2020)              This article provides a robust/academic review of bias in Natural Language Processing\n-\tArticle - Douglas, L. (2017)  This article provides specific examples of bias.\n-\tVideo 3 - Social computing This video challenges traditional views of technology and introduces the importance of the human\n-\tQuiz       You will be tested on your understanding of core NLP approaches and related issues of bias\n\nModule 3: Applied Natural Language Processing\n-\tVideo 1 - Behind the scenes In this video we showcase a typical AI development journey\n-\tVideo 2 - NLP in practice In this video we return to NLP but with a deeper look at code and implementation\n-\tVideo 3 - Digitising qualitative research  In this video we will summarize the state of digital qualitative research\n\nAssignment          \nThis assignment will test your knowledge about themes from all three modules\n(The assignment is marked by staff from Pigeonline or the Digital Skills Lab to ensure they have appropriately and accurately applied the skills from the proceeding modules)",
     "criteriaSkills": [
       {

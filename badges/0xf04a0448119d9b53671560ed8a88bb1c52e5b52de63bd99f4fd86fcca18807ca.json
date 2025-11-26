@@ -4,40 +4,40 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xf04a0448119d9b53671560ed8a88bb1c52e5b52de63bd99f4fd86fcca18807ca.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xf04a0448119d9b53671560ed8a88bb1c52e5b52de63bd99f4fd86fcca18807ca.json",
   "version": "1.0",
   "name": "Python for Finance  ",
   "description": "This is a four part introductory coding workshop series on the basics of using Python for Finance purposes. These sessions train participants in the fundamental programming techniques to use Python for data science purposes, to download, analyse and visualize financial data by solving a series of tasks in teams by applying knowledge from interactive demonstrations, online courses, using web searches and getting support from trainers. The libraries used in the workshops are numpy, pandas, pandas_datareader, yfinance, matplotlib and statsmodels.api. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_for_finance___20.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_for_finance___20.png",
   "tags": [
     "Python",
     "Finance"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xb09eaf669337d5192fa4e7a238f4ab2c08dc82034863de18cca18e270c076fe7.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xb09eaf669337d5192fa4e7a238f4ab2c08dc82034863de18cca18e270c076fe7.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xa077f4a13ef07a72d875bbf9370ba6947fd8c05fdad5a42cf2061e9a40fb5cb1",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xa077f4a13ef07a72d875bbf9370ba6947fd8c05fdad5a42cf2061e9a40fb5cb1",
     "narrative": "This badge is awarded to people who have attended the four python workshops listed below, presented by the Digital Skills Lab at the London School of Economics and Political Science. ",
     "event": [
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0x317522a728cab356e8699983711a0efde5ffbc5c5a11c55900afeda58ff0c501",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0x317522a728cab356e8699983711a0efde5ffbc5c5a11c55900afeda58ff0c501",
         "name": "Python for Finance Day 1",
         "description": "A 3-hour practical session that introduced students to the basics of working with Python. \nBy the end students will have: \n   - Carried out calculations  \n   - Worked with string and numerical variables  \n   - Used lists to create a collection of values  \n   - Used for loops to work more efficiently with lists and collections ",
         "startDate": "2021-05-24T08:00:00.000Z",
@@ -51,9 +51,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
             "name": "Digital Skills Lab, London School of Economics and Political Science ",
             "email": "digital.skills.lab@lse.ac.uk",
             "address": {
@@ -65,9 +65,9 @@
             }
           },
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
             "name": "Executive Education, London School of Economics and Political Science ",
             "email": "executive.education@lse.ac.uk",
             "address": {
@@ -81,9 +81,9 @@
         ]
       },
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0x5ba40de68109809c4c8ee488d62a97225a1939f056a071efba9e9fff42378484",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0x5ba40de68109809c4c8ee488d62a97225a1939f056a071efba9e9fff42378484",
         "name": "Python for Finance Day 2",
         "description": "This 3-hour practical session taught students how to use the NumPy and Pandas library to work with tabular data. \nBy the end students will have:  \n   - Represented numerical data in NumPy arrays  \n   - Worked with 1D and 2D arrays  \n   - Carried out calculations and created summary statistics with arrays  \n   - Selected values from arrays using indexing and Boolean  indexing \n   - Imported data with pandas  \n   - Inspected dataframes  \n   - Selected values and created subsets of a dataframe  \n   - Calculated summary statistics and frequency tables using dataframes ",
         "startDate": "2021-05-25T08:00:00.000Z",
@@ -97,9 +97,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
             "name": "Digital Skills Lab, London School of Economics and Political Science ",
             "email": "digital.skills.lab@lse.ac.uk",
             "address": {
@@ -111,9 +111,9 @@
             }
           },
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
             "name": "Executive Education, London School of Economics and Political Science ",
             "email": "executive.education@lse.ac.uk",
             "address": {
@@ -127,9 +127,9 @@
         ]
       },
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0x09582f041833f705ac2b8d8601ce4f3190cd7794e588d168ad343ebe68ecb90d",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0x09582f041833f705ac2b8d8601ce4f3190cd7794e588d168ad343ebe68ecb90d",
         "name": "Python for Finance Day 3",
         "description": "This 3-hour practical session taught students how to retrieve and visualize stock price data using the pandas-datareader, yfinance and matplotlib libraries. \nBy the end students will have: \n   - Downloaded stock price data using pandas-datareader and yfinance  \n   - Created basic visualizations of stock price data using matplotlib  \n   - Applied plot customizations  \n   - Created plots with pandas ",
         "startDate": "2021-05-26T08:00:00.000Z",
@@ -143,9 +143,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
             "name": "Digital Skills Lab, London School of Economics and Political Science ",
             "email": "digital.skills.lab@lse.ac.uk",
             "address": {
@@ -157,9 +157,9 @@
             }
           },
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
             "name": "Executive Education, London School of Economics and Political Science ",
             "email": "executive.education@lse.ac.uk",
             "address": {
@@ -173,9 +173,9 @@
         ]
       },
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0xc58a1405dd7f0495c32084dd74b34cf5c202b2e50b3fe9fb87cab4b8aa6003f5",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0xc58a1405dd7f0495c32084dd74b34cf5c202b2e50b3fe9fb87cab4b8aa6003f5",
         "name": "Python for Finance Day 4",
         "description": "This 3 hour practical session taught students how to calculate and visualize stock returns. \nBy the end students will have: \n   - Calculated grouped aggregations  \n   - Calculated new columns based on groups  \n   - Calculated daily, monthly and annual returns  \n   - Used matplotlib to work on the object level of plots  \n   - Created subplots \n\n ",
         "startDate": "2021-05-27T08:00:00.000Z",
@@ -189,9 +189,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
             "name": "Digital Skills Lab, London School of Economics and Political Science ",
             "email": "digital.skills.lab@lse.ac.uk",
             "address": {
@@ -203,9 +203,9 @@
             }
           },
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0xe9030784ae0808559aa6341cc2b11ede042a1b28da2afd2b4e4f4158c994b881",
             "name": "Executive Education, London School of Economics and Political Science ",
             "email": "executive.education@lse.ac.uk",
             "address": {

@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x3356f705cce66c55f20a92c9cd306be69fc2a713aee6286e16907bb2b46efecb.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x3356f705cce66c55f20a92c9cd306be69fc2a713aee6286e16907bb2b46efecb.json",
   "version": "1.0",
   "name": "Problem Solving",
   "description": "This is an 8 hour online course which explores Python programming at an intermediate level.\nCovering how to break down problems into smaller parts, and then design and apply algorithms to data. It also explores list structures and their various uses.\n\nTo prove completion of this online course, the student must provide a copy of the course completion certificate provided by the course provider. We also have access to the Course Provider system and can verifiy % complete and level of interaction with the course if there is any doubt about the level of engagement.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Problem_Solving.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Problem_Solving.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x084138cc589281f9fe80aa18a53458271398195c5b86d5d8e69801e4a464e580.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x084138cc589281f9fe80aa18a53458271398195c5b86d5d8e69801e4a464e580.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xd665a91f52ad85a7b54f6fd7aee48d35cb9f0521156d91d087ea03e714411787",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xd665a91f52ad85a7b54f6fd7aee48d35cb9f0521156d91d087ea03e714411787",
     "narrative": "Participants must complete the full online course to be awarded the digital badge."
   }
 }

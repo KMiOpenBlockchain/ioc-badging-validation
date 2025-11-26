@@ -4,34 +4,34 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x3493e3cd390c7a97770e4299c5a692627f675479b6cab5af5305fa88e6b74e64.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x3493e3cd390c7a97770e4299c5a692627f675479b6cab5af5305fa88e6b74e64.json",
   "version": "1.0",
   "name": "Ou(R) Study Groups",
   "description": "This course consists of a series of workshops where students work in groups on open-ended R projects to prepare for 2nd and 3rd year Statistics courses. In order to solve the project successfully, students require an understanding of basic programming techniques like variables, conditionals, loops, and writing functions and how to use libraries in R to apply specific statistical techniques.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects_78.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects_78.png",
   "tags": [
     "R",
     "Statistics"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcefeb52b1b4b93b2ae750a3985275b20d65f300e7b72bb3a254b8183a8978f70.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xcefeb52b1b4b93b2ae750a3985275b20d65f300e7b72bb3a254b8183a8978f70.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xd858a6ec87d7ea64de16c888bc7d6c2933cb1d30d9834ea679734cb49be82830",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xd858a6ec87d7ea64de16c888bc7d6c2933cb1d30d9834ea679734cb49be82830",
     "narrative": "To earn the badge, students must successfully complete the Ou(R) study group's R projects, which are assessed through a presentation. The projects must be evaluated and deemed satisfactory by the instructors from the LSE Statistics Department."
   }
 }

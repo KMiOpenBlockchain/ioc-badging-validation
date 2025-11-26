@@ -2,10 +2,10 @@
     "@context": {
         "type": "@type",
         "id": "@id",
-        "ioc": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/vocab.jsonld#",
+        "ioc": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/vocab.jsonld#",
     	"saro": "http://w3id.org/saro#",
     	"schema" : "http://schema.org/",
-        "@vocab": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/vocab.jsonld",
+        "@vocab": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/vocab.jsonld",
         "AttendedEvent": {
             "@id": "ioc:AttendedEvent",
             "@type": "@id"

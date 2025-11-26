@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "RevocationList",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "revokedAssertions": []
 }

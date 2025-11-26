@@ -4,34 +4,34 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x0e5bf46cf7689c81b765bdd139eb54133affcfec695262b0421b148415e7dd74.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x0e5bf46cf7689c81b765bdd139eb54133affcfec695262b0421b148415e7dd74.json",
   "version": "1.0",
   "name": "Ou(R) Study Groups",
   "description": "This course consists of a series of workshops where students work in groups on open-ended R projects to prepare for 2nd and 3rd year Statistics courses. In order to solve the project successfully, students require an understanding of basic programming techniques like variables, conditionals, loops, and writing functions and how to use libraries in R to apply specific statistical techniques.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects___best_projects_80.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects___best_projects_80.png",
   "tags": [
     "R",
     "Statistics"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xe9f9bb70c57f227c4b639b7872bd07b9bc57cbdcf33642a591129a983c805fec",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xe9f9bb70c57f227c4b639b7872bd07b9bc57cbdcf33642a591129a983c805fec",
       "targetName": "IoC Super Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0x6cf731e709fbad20298fa2be252f425a951fabee589d896bdcc10de2fa536372",
       "targetDescription": "Institute of Coding, non academic, recognition for attaining a set of badges."
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xdd7ac7e3af0fa3449f0a981caf52d3d6ad8fe21a9c25d3f5432b60d20366e9f9.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xdd7ac7e3af0fa3449f0a981caf52d3d6ad8fe21a9c25d3f5432b60d20366e9f9.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xa4ae84a800b09d195a098bbb5dd84c0109d17a236b5ccc72c870b22ebc167029",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xa4ae84a800b09d195a098bbb5dd84c0109d17a236b5ccc72c870b22ebc167029",
     "narrative": "This badge is awarded to students whose projects were graded as the best overall projects out of all submissions for the ST160p R projects."
   }
 }

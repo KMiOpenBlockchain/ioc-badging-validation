@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x375e016f459b3a285d0f4d62a8a1f0c2ffa01579527f9f686a3bdc680a1da2f0.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x375e016f459b3a285d0f4d62a8a1f0c2ffa01579527f9f686a3bdc680a1da2f0.json",
   "version": "1.0",
   "name": "Cybersecurity",
   "description": "This online course helps particpants understand online security and protecting their digital life, whether at home or work.\nParticipants will learn how to recognise threats that could harm them online and how to take steps to protect themselves.\nThe course will frame online safety in the context of the wider world, introducing concepts like malware, viruses, trojans, network security, cryptography, identity theft and risk management.\nThe course was supported by the UK Government's National Cyber Security Programme, is GCHQ Certified Training and IISP accredited.\n\nTo prove completion of this online course, the student must provide a copy of the course completion certificate provided by the course provider. We also have access to the Course Provider system and can verifiy % complete and level of interaction with the course if there is any doubt about the level of engagement.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Cybersecurity.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Cybersecurity.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x3467230e193d49ed03098ae2cad172ee4e97e3623770dcd4c96b085dc758e80c.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x3467230e193d49ed03098ae2cad172ee4e97e3623770dcd4c96b085dc758e80c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x85db47ceed9799764ff4f1d6c68a0e380cdfeb447e614dc9dbb111e48a1e4a8c",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x85db47ceed9799764ff4f1d6c68a0e380cdfeb447e614dc9dbb111e48a1e4a8c",
     "narrative": "Participants must complete the course to be awarded with the digital badge."
   }
 }

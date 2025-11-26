@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xc9e38c1270a3494ea4937cce7d990c7b07362b10590f3dd3efe0f83f1ebeef3b.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xc9e38c1270a3494ea4937cce7d990c7b07362b10590f3dd3efe0f83f1ebeef3b.json",
   "version": "1.0",
   "name": "Agile Project Management",
   "description": "Participants will undertake the Agile PM Foundation and Practitioner Accredited Certification, which provides an introduction to the Agile methodology and the core principles needed for a successful Agile project. Participants will understand the 12 principles of Agile training and how to implement them into projects and their daily thought-process. Topics covered will include roles and responsibilities, agile lifecycles, processes and products, communication, iterative development, prioritisation and time boxing, maintaining control, anticipating and managing risk, requirements and estimating, planning and quality.\n\nThis course is an accrediated certification from KPMG, to prove completion of this course, the students must provide a copy of the exam pass certificate. The foundation exam is multiple choice, 50 questions per paper\n25 marks required to pass (out of 50 available) - 50%\n40 minute duration, closed-book. The Practitioner exam is Objective examination. 4 questions (20 points per question). 40/80 points required to pass the exam (50%).\nDuration 2.5 hours, open book (only the official AgilePM manual is allowed).\n\nIn addition, participants will undertake supplementary topics on Comparing Agile and Waterfall PM techniques, Running Agile at Scale and Business Analyst and Project Manager Collaboration.\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Agile_Project_Management.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Agile_Project_Management.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xe8413fd4789153012ccfa1fb5fa4cd2dbbee490dcb49cc64fddd8d21d2083761",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xe8413fd4789153012ccfa1fb5fa4cd2dbbee490dcb49cc64fddd8d21d2083761",
       "targetName": "IoC Silver Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/8f29ff0390ecc71b0c642c9175342762474772db10d1a8ac74785d5903933b3b",
       "targetDescription": "Institute of Coding recognition of knowledge at silver level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x767cd0d90eaa01328c8c2381f88d82db7d4ec07c9fe7c6125d6623b84a30a7df.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x767cd0d90eaa01328c8c2381f88d82db7d4ec07c9fe7c6125d6623b84a30a7df.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x187a8efb34110442a45cb5bb623177135481107d0ea6c673a03afe7d9f41373d",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x187a8efb34110442a45cb5bb623177135481107d0ea6c673a03afe7d9f41373d",
     "narrative": "Participants must complete all the online courses and the associated exams to be awarded the digital badge."
   }
 }

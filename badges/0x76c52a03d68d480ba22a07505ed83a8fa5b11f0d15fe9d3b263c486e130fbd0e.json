@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x76c52a03d68d480ba22a07505ed83a8fa5b11f0d15fe9d3b263c486e130fbd0e.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x76c52a03d68d480ba22a07505ed83a8fa5b11f0d15fe9d3b263c486e130fbd0e.json",
   "version": "1.0",
   "name": "Mentee",
   "description": "The badge is awarded to Open University students who participated in the Industry Mentoring Programme (IMP) as a student mentee.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/industry_mentoring_programme___mentee_2.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/industry_mentoring_programme___mentee_2.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x9fcd9de7fa7bccc54d89bffd89a05189b6a23b45be4dac64b0040272aec8cc82.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x9fcd9de7fa7bccc54d89bffd89a05189b6a23b45be4dac64b0040272aec8cc82.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xd7b89e77ad9500cdf3b793f6c4ee879a1fe0f49ee3e56f61dc757a0a40d49a6e",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xd7b89e77ad9500cdf3b793f6c4ee879a1fe0f49ee3e56f61dc757a0a40d49a6e",
     "narrative": "Individual participated in the programme as a student mentee."
   }
 }

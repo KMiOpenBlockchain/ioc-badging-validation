@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xd20a82fbe05239346564b6d003872ae6f94a9a9ad2e2ca990286d1ef39ad468e.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xd20a82fbe05239346564b6d003872ae6f94a9a9ad2e2ca990286d1ef39ad468e.json",
   "version": "1.0",
   "name": "Human Computer Interaction",
   "description": "This is a collection of 6 short online courses which cover an introduction to HCI, the courses cover establishing user requirements, evaluation of interactive systems, hierarchical task analysis, user evaluations and designing for a diversity of users.\n\nTo prove completion of the course and interaction with the materials, students must submit their study notes and 5 practical exercises, these are marked as submitted or not, they are not assessed.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Human_Computer_Interaction.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Human_Computer_Interaction.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x77fd5897936eff21b2293d8e9c39660b651ee999e8b744e4e625075cd8963c74.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x77fd5897936eff21b2293d8e9c39660b651ee999e8b744e4e625075cd8963c74.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x1129f592ce95449fcebad1546220104444a58820ebe859bcb958d31e9e6c4a7f",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x1129f592ce95449fcebad1546220104444a58820ebe859bcb958d31e9e6c4a7f",
     "narrative": "Participants must complete the 6 online courses and associated exercises to be awarded the digital badge."
   }
 }

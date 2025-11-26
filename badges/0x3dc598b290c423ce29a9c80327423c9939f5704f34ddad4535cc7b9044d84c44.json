@@ -4,36 +4,36 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x3dc598b290c423ce29a9c80327423c9939f5704f34ddad4535cc7b9044d84c44.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x3dc598b290c423ce29a9c80327423c9939f5704f34ddad4535cc7b9044d84c44.json",
   "version": "1.0",
   "name": "Data Analytics and Visualisation (MISDI Code Camp 2021)",
   "description": "The MISDI Code Camp 2021 was delivered via a combination of online synchronous lectures, events, and independent group work and self-study. Working in groups of two, attendees applied their skills to a different dataset each day, based on the popular Makeover Monday social data weekly challenge. \n\nOver the week, attendees developed a small portfolio of 3 pieces of work showcasing their data analysis and visualisation skills, before applying all of their learning to a final project at the end of the week. For their final project, attendees and their partner visualised a dataset related to airline seat price evaluation and marketing before sharing their project with the rest of the MISDI team.\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/data_visualisation_track_misdi_code_camp_2021_25.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/data_visualisation_track_misdi_code_camp_2021_25.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x7be304e1bac32c9a7f31d8bdd2596c0a6d9a2fa42f52d08e7933c6c12ccc6b54.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x7be304e1bac32c9a7f31d8bdd2596c0a6d9a2fa42f52d08e7933c6c12ccc6b54.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xe8f8ae014acd357cb98a54e123faefbda064eed50af9cc57d168db9840e83a4d",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xe8f8ae014acd357cb98a54e123faefbda064eed50af9cc57d168db9840e83a4d",
     "narrative": "This badge is awarded to people who attended two of the four lecture days and presented their final project on the last day. ",
     "event": [
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0x87d6566bd4cd9839b75d99f7c9df982c015d8dfb9572a6b5e179ae061917a0a5",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0x87d6566bd4cd9839b75d99f7c9df982c015d8dfb9572a6b5e179ae061917a0a5",
         "name": "MISDI Code Camp 2021",
         "startDate": "2021-06-28T09:00:00.000Z",
         "endDate": "2021-07-02T15:00:00.000Z",
@@ -46,9 +46,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x8a5211568b57af954433719026a924f2603668fb5027feaa58f29208f16303fa",
             "name": "Digital Skills Lab, London School of Economics and Political Science ",
             "email": "digital.skills.lab@lse.ac.uk",
             "address": {

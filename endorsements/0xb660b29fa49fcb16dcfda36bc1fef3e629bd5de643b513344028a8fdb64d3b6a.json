@@ -1,14 +1,14 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Endorsement",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xb660b29fa49fcb16dcfda36bc1fef3e629bd5de643b513344028a8fdb64d3b6a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xb660b29fa49fcb16dcfda36bc1fef3e629bd5de643b513344028a8fdb64d3b6a.json",
   "issuedOn": "2023-05-18T11:04:38.000Z",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsers/0xf61ea505209ab62a4d334afe89c561193544e1fbfdc77238c8c27930a9382f34.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsers/0xf61ea505209ab62a4d334afe89c561193544e1fbfdc77238c8c27930a9382f34.json",
   "verification": {
     "type": "HostedBadge"
   },
   "claim": {
     "endorsementComment": "The Institute of Coding endorse this badge and its issuer",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xc2dceee04cf390a580df971b32f35218e4e6f8d1f0db2281db6746d44d9d421c.json"
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xc2dceee04cf390a580df971b32f35218e4e6f8d1f0db2281db6746d44d9d421c.json"
   }
 }

@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x827b712f21834de13e2dc7ed7f833340e8ffc53e6babd41f3d120c88f5eae55c.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x827b712f21834de13e2dc7ed7f833340e8ffc53e6babd41f3d120c88f5eae55c.json",
   "version": "1.0",
   "name": "Python Fundamentals",
   "description": "The 9-part Python fundamentals series teaches you the basic Python skills that form the foundation for any type of programming project. After having completed this series, you will be familiar with the Python syntax, know about the fundamental built-in functions and objects in Python and will be able to solve basic programming problems independently. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_fundamentals_43.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_fundamentals_43.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x9a3ea37332c14d246c5386a34e9755fa2427d089b77d169547934882086e4dc1.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x9a3ea37332c14d246c5386a34e9755fa2427d089b77d169547934882086e4dc1.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xaee172deb66537c2cc793a484f7c6a52d10970cffd75828c596aa011ecca66a9",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xaee172deb66537c2cc793a484f7c6a52d10970cffd75828c596aa011ecca66a9",
     "narrative": "This badge is awarded to learners who attended all workshops from the Python Fundamentals series."
   }
 }

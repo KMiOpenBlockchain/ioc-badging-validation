@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x3a74ba28a7739fee6e5e1b38be368432e0798bf345a9d0331df25cbecdfa07ee.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x3a74ba28a7739fee6e5e1b38be368432e0798bf345a9d0331df25cbecdfa07ee.json",
   "version": "1.0",
   "name": "Software Testing",
   "description": "Participants will undertake the ISTQB Software Testing Foundation Accredited Course, which offers an introduction to the fundamentals of Software testing, including testing standards, testing lifecycles, testing techniques and static testing. Participants will also learn how to implement and analyse Software Testing methodology.\n\nThis course is an accrediated certification from BCS and must be completed an exam centre, To prove completion of this course, the students must provide a copy of the exam pass certificate. One hour 'closed book' exam with 40 multiple choice questions. Pass mark is 65% (26/40)\n\nIn addition, particpants will undertake supplementary topics on TDD, BDD and API Testing.\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Software_Testing.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Software_Testing.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x3a13fe22b92dd33bf42821b03d6fe0d336b6b4ba4174cf7770e4eeb3e83f82e4.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x3a13fe22b92dd33bf42821b03d6fe0d336b6b4ba4174cf7770e4eeb3e83f82e4.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x60e615340c18da95446edf4f2d6fbebf35ce84a57a05c41f263d4958cb1961d7",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x60e615340c18da95446edf4f2d6fbebf35ce84a57a05c41f263d4958cb1961d7",
     "narrative": "Participants must complete all the online courses and the associated exams to be awarded the digital badge."
   }
 }

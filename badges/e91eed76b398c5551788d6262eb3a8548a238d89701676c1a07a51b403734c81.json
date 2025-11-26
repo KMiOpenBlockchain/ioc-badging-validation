@@ -4,36 +4,36 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/e91eed76b398c5551788d6262eb3a8548a238d89701676c1a07a51b403734c81.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/e91eed76b398c5551788d6262eb3a8548a238d89701676c1a07a51b403734c81.json",
   "version": "1.0",
   "name": "Coding 101",
   "description": "This badge is awarded for participation on the Coding 101 Course which is an introduction to Coding including; applications of coding in the real world, programming languages and their uses, input/output, datatypes (String, Int, Bool), variables. Practical work completed using Python.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/sunderland/coding-101-2019.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/sunderland/coding-101-2019.png",
   "tags": [
     "Python",
     "Datatypes",
     "Variables",
     "Coding"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/051d72bedfba54464525661f58f12057a0f0b3a4290093417cc3615264f05b1d.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/051d72bedfba54464525661f58f12057a0f0b3a4290093417cc3615264f05b1d.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x035937c4bab85959649ff72e72df0c330c2a229e661a616d1e52b7592ddcbd98.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x035937c4bab85959649ff72e72df0c330c2a229e661a616d1e52b7592ddcbd98.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/dda8501d2e88c7b3ea3db4d20fce1597e0640feb601e21dc823c1eb6155f73ae",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/dda8501d2e88c7b3ea3db4d20fce1597e0640feb601e21dc823c1eb6155f73ae",
     "narrative": "Attendance on the Coding 101 course."
   }
 }

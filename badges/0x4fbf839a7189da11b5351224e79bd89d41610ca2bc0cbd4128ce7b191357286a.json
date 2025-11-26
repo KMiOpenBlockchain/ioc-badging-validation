@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x4fbf839a7189da11b5351224e79bd89d41610ca2bc0cbd4128ce7b191357286a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x4fbf839a7189da11b5351224e79bd89d41610ca2bc0cbd4128ce7b191357286a.json",
   "version": "1.0",
   "name": "IOC-BSU Creative Computing Digital Skills Bootcamp",
   "description": "This digital badge confirms the successful completion of the 12 week BSU-IOC skills bootcamp in Creative Computing. Learners gain skills to embark on a career in creative computing and UX/UI design. Topics studied include User Interface (UI) and User Experience (UX) design, app and web development, product management, presenting and pitching. In addition to core content, learners present and manage a project and participate in employability skills sessions. The course was completed within the time period of September 2021-March 2022.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_creative_computing_digital_skills_bootcamp_48.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xf29d4ec7d8952984ad93e80434b260076878e4eac96758c8f1836d463322129f/bsu_ioc_creative_computing_digital_skills_bootcamp_48.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xd7d76eb74b92d3b2abe69a64d1dc47e0e15eaca730f0429126ad745184b7b690.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x7b7f1094751200ebec6a8f90d412e81c9893735c074de94dbae4bd1b3acde64e",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x2f91d09e382bfce6361b490c220c8080ff30215e7ec0326626d646c4b0e44a6b.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x2f91d09e382bfce6361b490c220c8080ff30215e7ec0326626d646c4b0e44a6b.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x092f7c8e71d09d80b2d15db98de40553c87b44d24e1d6a65bfa5cec462798790",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x092f7c8e71d09d80b2d15db98de40553c87b44d24e1d6a65bfa5cec462798790",
     "narrative": "This digital badge confirms the successful completion of the Skills Bootcamp in Creative Computing, in which learners demonstrate competence in the following skills: an introduction to design thinking, project management techniques, ideation and creative problem solving, digital identity and story telling, coding tools for web and app development, user experience (UX) design, how to use prototyping tools. Students complete 21 hours of live teaching alongside employability sessions which focus on career planning, self pitching and CV and interview skills. Students also complete 8 hours of independent study. The course is designed for those seeking new employment within the creative computing industry.",
     "criteriaSkills": [
       {

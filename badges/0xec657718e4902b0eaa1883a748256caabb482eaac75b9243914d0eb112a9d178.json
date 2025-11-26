@@ -4,20 +4,20 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xec657718e4902b0eaa1883a748256caabb482eaac75b9243914d0eb112a9d178.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xec657718e4902b0eaa1883a748256caabb482eaac75b9243914d0eb112a9d178.json",
   "version": "1.0",
   "name": "Term 2",
   "description": "Super Badge awarded for completion of all Term 2 Modules",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/term2_super.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xf31783647373c7f22fa5938df6da714ce4e2c8fad0f879c94eb080af9a0004b1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/term2_super.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xf31783647373c7f22fa5938df6da714ce4e2c8fad0f879c94eb080af9a0004b1.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xfc7f4f6fd64e8d1e1739c75d47b6e52bda35754e9507ef17891077c3bb19b1e6",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xfc7f4f6fd64e8d1e1739c75d47b6e52bda35754e9507ef17891077c3bb19b1e6",
     "narrative": "Participants must achieve the following badges to be awarded the Term 2 Super Badge:\n- Artificial Intelligence\n- Agile Software Engineering\n- Adv Programming or Strategic Management of Technology\n- Cloud Computing or Creative problem Solving and Critical Thinking"
   }
 }

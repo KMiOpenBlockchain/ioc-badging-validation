@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/e4d429b689fe56ee88f835ada2687dd6fd2119285558b1c710c826131e26f588.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/e4d429b689fe56ee88f835ada2687dd6fd2119285558b1c710c826131e26f588.json",
   "version": "1.0",
   "name": "Time series classification data preparation",
   "description": "This badge is awarded to Summer School students who have undertaken a set of activities around time series classification data preparation as part of the Introduction to Artificial Intelligence and Machine Learning Workshop.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/oucomputing/timeseries2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/oucomputing/timeseries2019.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x33bd356dfff6fee8f46372e7ef54fec128facc941a4c9fda9544a17e40669ec8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/ec116e0a173e000b6697f9cf7f515584862acf1d632b3a5ddb4277885befca84",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/ec116e0a173e000b6697f9cf7f515584862acf1d632b3a5ddb4277885befca84",
     "narrative": "To earn this badge students must have achieved the following: Familiarisation with a data format that can be used for TSC with neural networks; Understand the reason for reserving a final test dataset."
   }
 }

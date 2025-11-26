@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xd7bd8f986c9c661249220a47a4e12eafacf691da8a682f48b0fcd128260f6e58.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xd7bd8f986c9c661249220a47a4e12eafacf691da8a682f48b0fcd128260f6e58.json",
   "version": "1.0",
   "name": "Mentor",
   "description": "The badge is awarded to individuals who participated in the Industry Mentoring Programme (IMP) as an industry mentor.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/industry_mentoring_programme___mentor_1.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/industry_mentoring_programme___mentor_1.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x23c904590832a0d687ae577fcb91eda20078fbfdcafe16ce1cb6bff6f31061b0.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x2f8e2e83e91b4bf80b215a294ebd372d7fcb091350f7a4172a54682d7d45bb67.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x2f8e2e83e91b4bf80b215a294ebd372d7fcb091350f7a4172a54682d7d45bb67.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x8e9a3d579047b6c290347d8ac799312c8037356c1f67d32087d98b579078b57c",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x8e9a3d579047b6c290347d8ac799312c8037356c1f67d32087d98b579078b57c",
     "narrative": "Individual participated in the programme as an Industry mentor."
   }
 }

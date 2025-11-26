@@ -4,36 +4,36 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xdd8bf4899ddb1c91448ccdb4b640742d8d6063b3cab287394fddc37ffa8112d4.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xdd8bf4899ddb1c91448ccdb4b640742d8d6063b3cab287394fddc37ffa8112d4.json",
   "version": "1.0",
   "name": "ManMetHacks 2.0",
   "description": "ManMetHacks 2.0 is a Manchester based hackathon run out of Manchester Metropolitan University by the HelloHackers society. Over the course of 24 hours attendees will work in teams to complete challenges such as games and apps, set to them by various sponsors.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/mmu/mmu_manmethack_2020.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/mmu/mmu_manmethack_2020.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x81b00417818076f44934d58df33c54b3fce337a483ec66f75bc95addd90b5e1e.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xefd0cfce1c868655b39beeea84b75207993a991e99270bc074df4b47e604ab5d.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xefd0cfce1c868655b39beeea84b75207993a991e99270bc074df4b47e604ab5d.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xf06182f18904b5310a9f568a0f500ac7302ca511fc218af2b7d4abf5270685cb",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xf06182f18904b5310a9f568a0f500ac7302ca511fc218af2b7d4abf5270685cb",
     "narrative": "To gain this badge the recipient must attend and participate on both days of the ManMetHacks 2.0 event.",
     "event": [
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0x9ace845ff155a7b1de2dd036615b537db90c8987606e6d27c5813278239924d0",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0x9ace845ff155a7b1de2dd036615b537db90c8987606e6d27c5813278239924d0",
         "name": "ManMetHacks 2.0",
         "description": "ManMetHacks is a student-run 24-hour hackathon organised by helloHackers, a hackathon society at Manchester Metropolitan University. Student hackers from all over the UK meet to code, design and build innovative technological solutions.",
         "startDate": "2020-01-25T09:00:00.000Z",

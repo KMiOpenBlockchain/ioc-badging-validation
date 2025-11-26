@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
   "name": "Newcastle University",
-  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "revocationList": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
   "description": "Description\tNewcastle University is a civic, research-intensive university based in Newcastle upon Tyne in the North East of England. It is a world-class university with an international reputation for academic excellence. Newcastle University is a founding member of the Russell Group of 24 leading research institutions in the UK and is committed to maintaining the very best research, an outstanding teaching and learning experience and unrivalled links with business and the public sector. It has a proud tradition going back to 1834 when the School of Medicine and Surgery was established.",
   "url": "https://www.ncl.ac.uk/",
   "image": {
     "type": "ImageObject",
     "id": "http://blockchain16.kmi.open.ac.uk/badges/issuers/images/logos/NU-logo.png"
   },
-  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
+  "publicKey": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0x4d990b1f8bc7c3a8b11e2d9c37074a39a578cc741845ad785d21bf6239af3ece.json",
   "verification": {
     "type": "hosted"
   }

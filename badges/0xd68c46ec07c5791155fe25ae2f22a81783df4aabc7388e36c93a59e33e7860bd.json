@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xd68c46ec07c5791155fe25ae2f22a81783df4aabc7388e36c93a59e33e7860bd.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xd68c46ec07c5791155fe25ae2f22a81783df4aabc7388e36c93a59e33e7860bd.json",
   "version": "1.0",
   "name": "Business Analyst Leadership Skills",
   "description": "A collection of short online courses covering basic Leadership techniques including:\n- Negotiation\n- Leading Productive Meetings\n- Managing Stakeholders\n- Managing teams\n- Interpersonal Communication\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Business_Analyst_Skills.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Business_Analyst_Skills.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xeab5f4cecbfdca2f68a5cd0198da72513d7dbeb976b429418e7964651c5cfaea.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xeab5f4cecbfdca2f68a5cd0198da72513d7dbeb976b429418e7964651c5cfaea.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xf6052d216301a7a6aa59eaec05a674b5c7ca03ddf35326f4fb25a4b2b63d7343",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xf6052d216301a7a6aa59eaec05a674b5c7ca03ddf35326f4fb25a4b2b63d7343",
     "narrative": "Participants must complete all the courses to be awarded with the digital badge."
   }
 }

@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/43e28a5d06842a751829cbf04818a9e5e1398981178657d8ffd0cc680a9a71fe.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/43e28a5d06842a751829cbf04818a9e5e1398981178657d8ffd0cc680a9a71fe.json",
   "version": "1.0",
   "name": "Social Data Analytics",
   "description": "This is a one week intensive course that explores social data analysis, including statistical concepts and data visualisation and the use of programming for statistical analysis.  Participants learn how to handle data and code using R.  This course also focuses on the application of these tools in societal contexts including measures of public opinion and in the media through contributions made by invited expert speakers.\nCriteria for earning the badge: Participants must attend at least 4 days out of 5 to be awarded the digital badge.\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/exeter/social_data_analytics.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/exeter/social_data_analytics.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x716854f85d1779c7a4925af4ba935d049064e58b76aaaf73a5b87c5793bbc170.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x716854f85d1779c7a4925af4ba935d049064e58b76aaaf73a5b87c5793bbc170.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/b812024aa7c1805988aaa75549d1799aad1326f99714a588438f2964a6b1c5fd",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/b812024aa7c1805988aaa75549d1799aad1326f99714a588438f2964a6b1c5fd",
     "narrative": "Participants must attend at least 4 days out of 5 to be awarded the digital badge."
   }
 }

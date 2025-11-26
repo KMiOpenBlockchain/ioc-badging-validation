@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/2824237b807e39cdcfe66963765458efc79dfcc8a6ef1b3acb0296ee7bc1f45b.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/2824237b807e39cdcfe66963765458efc79dfcc8a6ef1b3acb0296ee7bc1f45b.json",
   "version": "1.0",
   "name": "Getting Started with Coding Bootcamp",
   "description": "This is a three day intensive coding bootcamp on the fundamentals of computer programming, taught using Processing (a dialect of Java). The bootcamp builds participants' programming skills by introducing core constructs - variables, conditionals, loops, basic data structures and functions - as well as the computational thinking necessary to create, debug and adapt simple arcade games.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/qmu/qmu-ioc-badge-2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/qmu/qmu-ioc-badge-2019.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/63559dcae603ffabc57fbbb90e60df8f8bdc846c30555482970261f8fd666209.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x12d5e9bd2ba58d6eecb361eac0689da5d3237dec57746efabbf0e3cefc704819.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x12d5e9bd2ba58d6eecb361eac0689da5d3237dec57746efabbf0e3cefc704819.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/36fe918019b7c6b459a87455ac8a9f903ccf8e6fb8b2e64660e7839b6d97606a",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/36fe918019b7c6b459a87455ac8a9f903ccf8e6fb8b2e64660e7839b6d97606a",
     "narrative": "Participants must attend all 3 days to be awarded the digital badge."
   }
 }

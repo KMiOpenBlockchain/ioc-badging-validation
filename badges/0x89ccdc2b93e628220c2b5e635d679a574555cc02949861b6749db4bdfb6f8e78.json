@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x89ccdc2b93e628220c2b5e635d679a574555cc02949861b6749db4bdfb6f8e78.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x89ccdc2b93e628220c2b5e635d679a574555cc02949861b6749db4bdfb6f8e78.json",
   "version": "1.0",
   "name": "R Data Visualisation ",
   "description": "The R Data Visualisation workshops are a series of practical workshops that follow along with the R Fundamentals and Data Wrangling workshops. They take students through some of the essential skills needed to visualise data in R.  Each workshop has a series of exercises and challenges where students either write their own code or debug code that has been provided to get the desired outcome. \n\nDuring the series, students learn some key elements of data visualisation using the ggplot2 package in R including how to build visualisations, general rules and quirks of ggplot2, exploring various standard plot types like scatter, bar, histogram, box plot, and line plot, and finally how to take your visualisations further by making hybrid plots, which bring together different styles of plots to better tell your story. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_data_visualisation_42.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_data_visualisation_42.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xf88baaba4a49a001c5333bf8443d59b711d6e06dd15c1c0046fd07f3447fb8d8.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xf88baaba4a49a001c5333bf8443d59b711d6e06dd15c1c0046fd07f3447fb8d8.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xf144048df9c54daeed2ae239b4e26c4d68fa8e3b5765364d8b3e31a6d4ddb56e",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xf144048df9c54daeed2ae239b4e26c4d68fa8e3b5765364d8b3e31a6d4ddb56e",
     "narrative": "This badge is awarded to people who attended both workshops in the R Data Visualisation workshop series. "
   }
 }

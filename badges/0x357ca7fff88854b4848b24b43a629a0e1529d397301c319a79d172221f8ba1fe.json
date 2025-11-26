@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x357ca7fff88854b4848b24b43a629a0e1529d397301c319a79d172221f8ba1fe.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x357ca7fff88854b4848b24b43a629a0e1529d397301c319a79d172221f8ba1fe.json",
   "version": "1.0",
   "name": "Python Coding Challenge Attendee",
   "description": "The LSE 2021 Python Coding Challenge focussed on financial services, utilising a cutting-edge virtual exchange developed by our employer sponsor, Optiver. Participants worked in interdisciplinary teams to develop trading algorithms in Python, testing and then optimising the algorithm's performance to achieve the best possible trading outcome. They then presented their processes and learning to a panel of judges from LSE Careers, LSE Digital Skills Lab, and employer-sponsor Optiver.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/python_coding_challenge_attendee_13.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/python_coding_challenge_attendee_13.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x9d1eac08a33bb495aea48b91a8acfe71f08aa2cb1d7a1f841917700b86544bd2.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x9d1eac08a33bb495aea48b91a8acfe71f08aa2cb1d7a1f841917700b86544bd2.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x1139c1993caf09d543c23397e09d7a07f85a2c40945ec8c529b71a51d06b53a0",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x1139c1993caf09d543c23397e09d7a07f85a2c40945ec8c529b71a51d06b53a0",
     "narrative": "Participants must have completed the following courses successfully on the Dataquest.io learning platform:\n1. Python for Data Science: Fundamentals\n2. Pandas and NumPy Fundamentals\n \nAND\n \nThey must have joined a team and actively participated in the creation of the team's algorithm and final presentation to the judges. The final presentation requires students to explain the role of each student and how they applied their knowledge to the final output. \n"
   }
 }

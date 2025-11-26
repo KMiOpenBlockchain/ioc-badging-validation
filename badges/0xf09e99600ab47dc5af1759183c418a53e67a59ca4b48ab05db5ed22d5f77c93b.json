@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xf09e99600ab47dc5af1759183c418a53e67a59ca4b48ab05db5ed22d5f77c93b.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xf09e99600ab47dc5af1759183c418a53e67a59ca4b48ab05db5ed22d5f77c93b.json",
   "version": "2.0",
   "name": "Coding Boot Camp",
   "description": "This is a one week intensive coding boot camp to boost participant's computational skills and learn how to formulate and solve problems by using algorithmic thinking and collaborative programming.  This course is taught using Python.  The course begins with writing simple python scripts, and then builds on participants' programming skills by learning algorithms, functions, lists, loops, conditions, reading and writing files, finding bugs and displaying results using graphs.  At the end of the week, participants complete a fun group project by applying skills they have learnt to solve real-life problems using python programming.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/exeter_coding_boot_camp_2020.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xa39bfb275e172dac1133e409fc20f5510cbdb929d26489e71595271b6d922318/exeter_coding_boot_camp_2020.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcce9253bc855e1479618b3b63cb45fe5ce820ebd3d25e3318c1370ff80bd0ad2.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xcce9253bc855e1479618b3b63cb45fe5ce820ebd3d25e3318c1370ff80bd0ad2.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x013ce7311959eba616cc442b935e80e86b1646e1ee3eaaa3f872b64ee7971fc8",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x013ce7311959eba616cc442b935e80e86b1646e1ee3eaaa3f872b64ee7971fc8",
     "narrative": "Participants must attend at least 4 days out of 5 to be awarded the digital badge."
   }
 }

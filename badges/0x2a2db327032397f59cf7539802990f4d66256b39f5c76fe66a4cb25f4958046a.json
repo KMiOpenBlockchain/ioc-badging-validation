@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x2a2db327032397f59cf7539802990f4d66256b39f5c76fe66a4cb25f4958046a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x2a2db327032397f59cf7539802990f4d66256b39f5c76fe66a4cb25f4958046a.json",
   "version": "1.0",
   "name": "UoH-IOC Artificial Intelligence Skills Bootcamp",
   "description": "This digital badge confirms successful completion of the 16 week UOH-IOC AI Skills Bootcamp in March 2022. Topics studied included algorithms, python programming, machine learning, data preparation, feature extraction, language processing. Applications included creating a spam filter and a chat bot, using machine learning for inventory control and robotics for warehousing. The course began on the 8th of November and ended on the 31st of March.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0xef641eaa7ab273e57ce718ca501483ae80ec24a40ccfd66dbeaca2c761e641c6/artificial_intelligence_39.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0xef641eaa7ab273e57ce718ca501483ae80ec24a40ccfd66dbeaca2c761e641c6/artificial_intelligence_39.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x57a19a9479a52047df5c11f747083e5e34f87f2c1f113361fa70e6d2b23431df.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x651b8ff368ebd50d5ef289993856ac04babae154c3adfeb6a2df00976712eff0",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x651b8ff368ebd50d5ef289993856ac04babae154c3adfeb6a2df00976712eff0",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x40e3997741d5b4628f823a9919f5bc5d7bd9fa6324ac2286905300627c0367bb.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x40e3997741d5b4628f823a9919f5bc5d7bd9fa6324ac2286905300627c0367bb.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x849a701293ba22d1f2b6e5d6dcaa11e44829e292d75c45dce9ed0af3a5bc4748",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x849a701293ba22d1f2b6e5d6dcaa11e44829e292d75c45dce9ed0af3a5bc4748",
     "narrative": "This digital badge confirms successful completion of the Artificial Intelligence Skills Bootcamp, in which learners demonstrated competence in the following skills: Computational thinking, Python programming, Natural Language Processing, Machine Learning, Automation, Self-directed development in application of skills to real-world examples (spam filter, chat bot, inventory control, robotics) and in preparation for associated careers (careers planning, self-reflection, independent learning, CV development). Students completed 10 hours of online classes and 20 hours of independent study to earn this badge.",
     "criteriaSkills": [
       {

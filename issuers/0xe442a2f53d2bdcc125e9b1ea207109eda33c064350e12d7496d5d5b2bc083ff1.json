@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "name": "London School of Economics and Political Science",
-  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "revocationList": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "description": "The London School of Economics is a public research university located in London, England, and a member institution of the University of London.",
   "url": "https://www.lse.ac.uk/",
   "image": {
     "type": "ImageObject",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/lse.png"
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/logos/lse.png"
   },
-  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "publicKey": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "verification": {
     "type": "hosted"
   }

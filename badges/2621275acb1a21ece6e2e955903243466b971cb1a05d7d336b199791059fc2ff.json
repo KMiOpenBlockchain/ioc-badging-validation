@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/2621275acb1a21ece6e2e955903243466b971cb1a05d7d336b199791059fc2ff.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/2621275acb1a21ece6e2e955903243466b971cb1a05d7d336b199791059fc2ff.json",
   "version": "1.0",
   "name": "Using a trained model on new data",
   "description": "This badge is awarded to Summer School students who have undertaken a set of activities around using a trained model on new data as part of the Introduction to Artificial Intelligence and Machine Learning Workshop.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/oucomputing/trainedmodel.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/oucomputing/trainedmodel.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x4930bf678e32bdbfff51635813fb88580648756c28188f250c8052a49fb93376.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x4930bf678e32bdbfff51635813fb88580648756c28188f250c8052a49fb93376.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/475da6be91140cb176048b2bf1ed3e7299f0a25febfca643f67369f5cf9ebf76",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/475da6be91140cb176048b2bf1ed3e7299f0a25febfca643f67369f5cf9ebf76",
     "narrative": "To earn this badge students must have achieved the following: Testing a trained model on new data."
   }
 }

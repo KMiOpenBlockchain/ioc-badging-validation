@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xcaaf2fe225b533bfb1508d991e71547acfcf5b0b5ed7bf5140f911bf6cfa2f7c.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xcaaf2fe225b533bfb1508d991e71547acfcf5b0b5ed7bf5140f911bf6cfa2f7c.json",
   "version": "1.0",
   "name": "R for Data Science",
   "description": "The R for Data Science workshops are a series of practical workshops taking students through the fundamental skills needed to use R, wrangle data using tools such as the Tidyverse, and visualise data using ggplot2. Each workshop has a series of exercises and challenges where students either write their own code or debug code that has been provided to get the desired outcome. \n\nDuring the series, students first learn the fundamentals of R including the different data types, how to work with directories to load data, how to use functions, subsetting and indexing, as well as how to use conditional logic. Then students learn data wrangling skills, with a focus on working with data frames and using the Tidyverse ecosystem; this includes working with relational datasets and aggregating data. Finally, students learn how to tell a story of their data through visualisation using ggplot2; this includes how to build visualisations, make a variety of different figures, utilising general rules and tips on data visualisation. ",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_for_data_science_56.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/r_for_data_science_56.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x8dde41416de24b97b6ac102c65cc678029c9afeb18a0c559b078763a28c21bf6.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x8dde41416de24b97b6ac102c65cc678029c9afeb18a0c559b078763a28c21bf6.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xa76aad3eb743047119e7a337f9c8ba37d3aa4b64a8f80557919b01f2899cf332",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xa76aad3eb743047119e7a337f9c8ba37d3aa4b64a8f80557919b01f2899cf332",
     "narrative": "This badge is awarded to people who attended at least five workshops in the R workshop series, completing fundamental, data wrangling and data visualisation elements. \n"
   }
 }

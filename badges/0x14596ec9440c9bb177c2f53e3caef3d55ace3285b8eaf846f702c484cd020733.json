@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x14596ec9440c9bb177c2f53e3caef3d55ace3285b8eaf846f702c484cd020733.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x14596ec9440c9bb177c2f53e3caef3d55ace3285b8eaf846f702c484cd020733.json",
   "version": "1.0",
   "name": "Testing Finalise",
   "description": "Testing finalise is working",
   "image": "https://www.gstatic.com/webp/gallery3/1.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xc15505bddaa06accbce64243b1e8619f56589a75672cf1592a923f431b3599ff.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xc15505bddaa06accbce64243b1e8619f56589a75672cf1592a923f431b3599ff.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xd8ac645219c72706f036f00a9bd2644ffa14a7fef686fc94a281e413eaa6039c",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xd8ac645219c72706f036f00a9bd2644ffa14a7fef686fc94a281e413eaa6039c",
       "targetName": "IoC Gold Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/825378e4137284a43d070070f83935672f056a1887970f5bd7aa6f2699931703",
       "targetDescription": "Institute of Coding recognition of knowledge at gold level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x117e6c6c29ace91ef02d8c4793fe7dc2c67a3146936cc91a60a810204c467079.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x117e6c6c29ace91ef02d8c4793fe7dc2c67a3146936cc91a60a810204c467079.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xced139bd4b31542b2260aa509f305c0590d4d88f4223932bf6171ab222344a5d",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xced139bd4b31542b2260aa509f305c0590d4d88f4223932bf6171ab222344a5d",
     "narrative": "Something great"
   }
 }

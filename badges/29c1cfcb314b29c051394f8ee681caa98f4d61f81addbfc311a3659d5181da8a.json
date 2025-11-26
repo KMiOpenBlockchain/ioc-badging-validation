@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/29c1cfcb314b29c051394f8ee681caa98f4d61f81addbfc311a3659d5181da8a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/29c1cfcb314b29c051394f8ee681caa98f4d61f81addbfc311a3659d5181da8a.json",
   "version": "1.0",
   "name": "Fashion recognition with Neural Networks ",
   "description": "This badge is awarded to Summer School students who have undertaken a set of activities around fashion recognition with neural networks as part of the Introduction to Artificial Intelligence and Machine Learning Workshop.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/oucomputing/fashionrecognition2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/oucomputing/fashionrecognition2019.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x5f5221d30f60b7a8377a38e334e5eb4be9aa9fd03154418d6f1d44157c722deb.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x5f5221d30f60b7a8377a38e334e5eb4be9aa9fd03154418d6f1d44157c722deb.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/c63f2774d4fcb9868eba7bb458b7851b2066ec6e669c68ea9bb037ba1c6657c4",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/c63f2774d4fcb9868eba7bb458b7851b2066ec6e669c68ea9bb037ba1c6657c4",
     "narrative": "To earn this badge students must have achieved the following: The preparation of fashion data; Normalises the data between the value [0,1]; Introduction to training data; Using feedforward neural network; Work through the notebook that defines, compiles and trains a model; Experiment with tuning the model"
   }
 }

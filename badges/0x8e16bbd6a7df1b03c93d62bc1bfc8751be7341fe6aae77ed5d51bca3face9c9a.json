@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x8e16bbd6a7df1b03c93d62bc1bfc8751be7341fe6aae77ed5d51bca3face9c9a.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x8e16bbd6a7df1b03c93d62bc1bfc8751be7341fe6aae77ed5d51bca3face9c9a.json",
   "version": "1.0",
   "name": "Advanced Machine Learning",
   "description": "Participants will undertake an online course on Advanced Machine Learning to further develop the foundation they started in Term 2. This will include:\n- Machine Learning Concepts\n- Machine Learning Engineering\n- Machine Learning in the Real World\n\nThis online course does not include any online assessment, to prove completion, the student must provide a copy of the course completion page.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Adv_Machine_Learning.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Adv_Machine_Learning.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xce68c384898082f8dc48a3c017454cff9fb6efdac83a87e8451f98e4a1bb932d.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xce68c384898082f8dc48a3c017454cff9fb6efdac83a87e8451f98e4a1bb932d.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x6bbfa66e62fc40a005352d119ade5291e4ef2ed1889b60fa8ce2cd27f472fdb9",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x6bbfa66e62fc40a005352d119ade5291e4ef2ed1889b60fa8ce2cd27f472fdb9",
     "narrative": "Participants must complete the whole online course and the associated exercises to be awarded the digital badge."
   }
 }

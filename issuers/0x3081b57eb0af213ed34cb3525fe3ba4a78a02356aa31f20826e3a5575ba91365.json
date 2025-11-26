@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
   "name": "The Open University",
-  "revocationList": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
+  "revocationList": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
   "description": "The Open University, which celebrated its 50th birthday throughout 2019, was established by Royal Charter on 23 April 1969. We are the leading university for flexible, innovative teaching and world-leading research in the United Kingdom and in 157 countries worldwide. Uniquely placed to understand the needs of part-time students, combining their learning while earning, our innovative, award-winning distance teaching credentials have seen over 2 million students receive an education, otherwise denied to them at campus-based universities.",
   "url": "http://www.open.ac.uk/",
   "image": {
     "type": "ImageObject",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/logos/oulogo.png"
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/logos/oulogo.png"
   },
-  "publicKey": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/keys/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
+  "publicKey": "https://kmiopenblockchain.github.io/ioc-badging-validation/keys/0x3081b57eb0af213ed34cb3525fe3ba4a78a02356aa31f20826e3a5575ba91365.json",
   "verification": {
     "type": "hosted"
   }

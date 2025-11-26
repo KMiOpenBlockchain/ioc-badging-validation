@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x4b7535c28b56fccf5f52b6a0cc2ee52f4dbfb7c1d9315dcb7b1b7684caa7e8bf.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x4b7535c28b56fccf5f52b6a0cc2ee52f4dbfb7c1d9315dcb7b1b7684caa7e8bf.json",
   "version": "1.0",
   "name": "Ou(R) Study Groups",
   "description": "This course consists of a series of workshops where students work in groups on open-ended R projects to prepare for 2nd and 3rd year Statistics courses. In order to solve the project successfully, students require an understanding of basic programming techniques like variables, conditionals, loops, and writing functions and how to use libraries in R to apply specific statistical techniques.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects_79.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/st160p_projects_79.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x779648a1c8442bef746c97207575504f6032ed16dafd4f69e59b2b5d3b395c6e.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x779648a1c8442bef746c97207575504f6032ed16dafd4f69e59b2b5d3b395c6e.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x447e6ac217f7e7a4c8d996f8835b2d82692df5f1d96dc913efb4080191e17cdc",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x447e6ac217f7e7a4c8d996f8835b2d82692df5f1d96dc913efb4080191e17cdc",
     "narrative": "To earn the badge students must have submitted at least one out of three projects."
   }
 }

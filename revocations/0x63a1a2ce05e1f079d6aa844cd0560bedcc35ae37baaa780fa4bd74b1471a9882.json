@@ -1,16 +1,16 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "RevocationList",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/revocations/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/revocations/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
   "revokedAssertions": [
     {
       "type": "Assertion",
-      "id": "urn:uuid:a7e6d4b7-cd80-573b-82c6-58c804fd784a"
+      "id": "urn:uuid:498e0fc6-3e59-5a6b-ae4d-55e1eb7be987"
     },
     {
       "type": "Assertion",
-      "id": "https://instituteofcoding.open.ac.uk/badges/assertions/hosted/0x29fe6536791a21e341c7df09e068a87c5598cfa3a8be9b8294933812a2dc4f6b"
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/assertions/0x29fe6536791a21e341c7df09e068a87c5598cfa3a8be9b8294933812a2dc4f6b"
     }
   ]
 }

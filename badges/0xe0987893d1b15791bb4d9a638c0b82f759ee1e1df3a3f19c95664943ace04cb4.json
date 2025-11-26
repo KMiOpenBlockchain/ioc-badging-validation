@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xe0987893d1b15791bb4d9a638c0b82f759ee1e1df3a3f19c95664943ace04cb4.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xe0987893d1b15791bb4d9a638c0b82f759ee1e1df3a3f19c95664943ace04cb4.json",
   "version": "2.0",
   "name": "Best Application of Learning",
   "description": "The LSE Python Coding Challenge focussed on financial services, utilising a cutting-edge virtual exchange developed by our employer sponsor, Optiver. Participants worked in interdisciplinary teams to develop trading algorithms in Python, testing and then optimising the algorithm's performance to achieve the best possible trading outcome. They then presented their processes and learning to a panel of judges from LSE Careers, LSE Digital Skills Lab, and employer-sponsor Optiver.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/best__application_of_learning_68.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/best__application_of_learning_68.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xbafb8bd27e61fda1298adbe4aa2e53d77964479e37c42d5a8f7b8be13734cd71.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xbafb8bd27e61fda1298adbe4aa2e53d77964479e37c42d5a8f7b8be13734cd71.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x912c0641896fad24ca1dd61facbee000d153763414a0f155838f77d603d2fc52",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x912c0641896fad24ca1dd61facbee000d153763414a0f155838f77d603d2fc52",
     "narrative": "Holders of this badge participated in the Python Coding Challenge by Optiver and were part of the team judged to have most effectively applied the learning provided to the final project and competition. The judging panel consisted of LSE staff from the Careers Service and Digital Skills Lab, and Optiver's Lecturer and Head of Academic Partnerships."
   }
 }

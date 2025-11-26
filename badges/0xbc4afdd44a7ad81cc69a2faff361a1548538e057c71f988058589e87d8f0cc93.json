@@ -4,36 +4,36 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xbc4afdd44a7ad81cc69a2faff361a1548538e057c71f988058589e87d8f0cc93.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xbc4afdd44a7ad81cc69a2faff361a1548538e057c71f988058589e87d8f0cc93.json",
   "version": "1.0",
   "name": "Find out about C3 career exploration tool",
   "description": "This badge is an award for people who attend the Institute of Coding (IoC) Conference 2020 and visit the C3 exhibition stand and find out more about their tool.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/ioc/ioconference2020_c3_career.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/ioc/ioconference2020_c3_career.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0x63a1a2ce05e1f079d6aa844cd0560bedcc35ae37baaa780fa4bd74b1471a9882.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x4d037b0df2c82b9e3d00dce43e70caca924260494c0d5cf6e50ef44e24780b32.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x4d037b0df2c82b9e3d00dce43e70caca924260494c0d5cf6e50ef44e24780b32.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xa7e92033e7fd052b92652bc805cf3d6425ab31b7b61a4c121d4992a32b126992",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xa7e92033e7fd052b92652bc805cf3d6425ab31b7b61a4c121d4992a32b126992",
     "narrative": "This badge is given to people who attend the Institute of Coding (IoC) Conference 2020 and then visit the C3 exhibition stand. The badge recipient has then talked to a representative at the stand to find out more about their tool.",
     "event": [
       {
-        "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+        "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
         "type": "AttendedEvent",
-        "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/events/0xe62c2a7e3b7e4f7cb177336cd7e6de6b021d90b3b06265b4a8fc91a49437c713",
+        "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/events/0xe62c2a7e3b7e4f7cb177336cd7e6de6b021d90b3b06265b4a8fc91a49437c713",
         "name": "IoC Conference 2020",
         "startDate": "2020-02-24T10:00:00.000Z",
         "endDate": "2020-02-25T17:00:00.000Z",
@@ -50,9 +50,9 @@
         },
         "organizer": [
           {
-            "@context": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld",
+            "@context": "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld",
             "type": "Organization",
-            "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/organizations/0x1f829c477df34b1580eac7467da4fd084bbf06506b3c247e2702dc47f10465ce",
+            "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/organizations/0x1f829c477df34b1580eac7467da4fd084bbf06506b3c247e2702dc47f10465ce",
             "name": "University of Bath",
             "email": "ioc@bath.co.uk",
             "address": {

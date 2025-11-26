@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x49fdc1108b22f30f3489265222d0d25a8e0bbfe4dd2a6ee45e6cc3af7aa62ab0.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x49fdc1108b22f30f3489265222d0d25a8e0bbfe4dd2a6ee45e6cc3af7aa62ab0.json",
   "version": "1.0",
   "name": "Coding for Teachers",
   "description": "This coding bootcamp comprises three 2-hour training sessions delivered through interactive lectures and practical workshops.  Students explore key concepts of programming through hands-on activities which they can transfer to the classroom, discuss how to support computational thinking, and debate the applications of programming in society.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/exeter/exeter_teachers_coding_badge.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/exeter/exeter_teachers_coding_badge.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/305fc5bb80665ce1f095010c45ad6e5ce4c5c27cb8b61484d10f641dbd95d339.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xd1d294c082dde56973bf826324729cf0250a4912adeb2acc035145a78e8c3450.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xd1d294c082dde56973bf826324729cf0250a4912adeb2acc035145a78e8c3450.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xf269adaf79d1561cbfdf3d4c057086c2f742a410e59d5858107be39de068dc4b",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xf269adaf79d1561cbfdf3d4c057086c2f742a410e59d5858107be39de068dc4b",
     "narrative": "Participants must have attended at least 2 of the 3 sessions."
   }
 }

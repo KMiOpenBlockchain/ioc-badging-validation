@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x10c2c40b4bd2661b735413ce5757c05eb1900a988f90e4f3ff4088c4b46c5de1.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x10c2c40b4bd2661b735413ce5757c05eb1900a988f90e4f3ff4088c4b46c5de1.json",
   "version": "1.0",
   "name": "Creative Problem Solving and Critical Thinking",
   "description": "A 16 hour online course in which participants will get an introduction to agile product development and desgin thinking, offering a different and effective approach to product development, one that results in valuable solutions to meaningful problems.\n\nTo prove completion of this online course, the student must provide a copy of the course completion certificate provided by the course provider. We also have access to the Course Provider system and can verifiy % complete and level of interaction with the course if there is any doubt about the level of engagement.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Cre_Pro_Sol_Crit_Thinking.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Cre_Pro_Sol_Crit_Thinking.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x3f882c2c475baff0428abbf89cfcfef7bc772e0864e2f66593bef402e885568e.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x3f882c2c475baff0428abbf89cfcfef7bc772e0864e2f66593bef402e885568e.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xcf9d4831f0a7716799005553b2fb86a77e8dabdbfa6101c41ea718053c5d4344",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xcf9d4831f0a7716799005553b2fb86a77e8dabdbfa6101c41ea718053c5d4344",
     "narrative": "Participants must complete the course to be awarded with the digital badge."
   }
 }

@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x6c0497b8d3639a375925b3c8e4fb277a9da03ac4560ac35c34063658b2947495.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x6c0497b8d3639a375925b3c8e4fb277a9da03ac4560ac35c34063658b2947495.json",
   "version": "1.0",
   "name": "Communication Skills and Public Speaking",
   "description": "In the first half of this module participants will gain a practical grounding in communication to boost their personal effectiveness, save time and reduce stress. They will discover the principles of writing influential emails, reports and proposals and find new confidence to make convincing presentations and conduct productive meetings, whilst developing a communication approach that is sensitive to cultural and personal differences.\nIn the second half of this module particpants will focus on the key elements of a successful presentation and how to give an effective presentation in a business environment.\n\nTo prove completion of these online courses, the student must provide a copy of the course completion certificates provided by the course provider. We also have access to the Course Provider system and can verifiy % complete and level of interaction with the course if there is any doubt about the level of engagement.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Com_Skills_Pub_Speaking.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Com_Skills_Pub_Speaking.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xcc4c434046cb785ccce6bf9618cdbb33f0ac91fb2d30c31f654415a3c53fe58f.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xcc4c434046cb785ccce6bf9618cdbb33f0ac91fb2d30c31f654415a3c53fe58f.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0xacb56c7429e2059a36f68e8fa841149a107fef79fec0715659f05677f8815821",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0xacb56c7429e2059a36f68e8fa841149a107fef79fec0715659f05677f8815821",
     "narrative": "Participants must complete both online courses to be awarded with the digital badge."
   }
 }

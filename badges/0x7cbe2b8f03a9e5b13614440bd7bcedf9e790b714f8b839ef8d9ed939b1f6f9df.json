@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x7cbe2b8f03a9e5b13614440bd7bcedf9e790b714f8b839ef8d9ed939b1f6f9df.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x7cbe2b8f03a9e5b13614440bd7bcedf9e790b714f8b839ef8d9ed939b1f6f9df.json",
   "version": "1.0",
   "name": "Machine Learning with Python for Accounting and Finance",
   "description": "This is a three part workshop series on the basics of machine learning with Python for Accounting/Finance purposes. The first session teaches basic techniques of data exploration and data cleaning with pandas. In the second and third session, students are being introduced to machine learning with scikit-learn. The topics that are being covered include: decision tree classifiers, train-test split, hyper parameter tuning with cross-validation, cross-validation with parameter permutation, and bias-variance tradeoff. In the final step, students apply the model to make predictions. The libraries used in the workshops are pandas, matplotlib, seaborn, and scikit-learn.\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/machine_learning_with_python_for_accounting_and_finance_57.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/machine_learning_with_python_for_accounting_and_finance_57.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x04964fb7a7f0704ceeebba8b15822f6ba9ab03a3e96184ce961e33c62e631851.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x04964fb7a7f0704ceeebba8b15822f6ba9ab03a3e96184ce961e33c62e631851.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x578f7e6200dccfff3464a2bf9cf09e595b2b238d8a376afd617894c1c1610deb",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x578f7e6200dccfff3464a2bf9cf09e595b2b238d8a376afd617894c1c1610deb",
     "narrative": "This badge is awarded to people who have attended the following three python workshops, presented by the Digital Skills Lab at London School of Economics and Political Science:\n\nMachine Learning with Python for Accounting and Finance workshop 1: Practical taught session in which participants worked through a series of tasks.\n\nParticipants perform exploratory data analysis and data cleaning on an online retail shop dataset using pandas. Tasks that participants were carrying out included:\n-    Importing csv files\n-    Clean column names\n-    Clean column values\n-    Explore columns by calculating frequency distributions\n-    Removing outliers and invalid values\n-    Subsetting data (based on dates)\n-    Performing grouped aggregation\n\n\nMachine Learning with Python for Accounting and Finance workshop 2: Practical taught session in which participants worked through a series of tasks.\n\nTasks that participants were carrying out included:\n- combining features into a dataframe\n- visualising the relationship between features and labels using bart plots\n- describing how the decision tree algorithm splits data to make prediction\n- making manual predictions using a decision tree diagram\n- training a decision tree classifier\n- perform a train-test split and evaluate a model's performance on unseen data\n\n\nMachine Learning with Python for Accounting and Finance workshop 3: Practical taught session in which participants worked through a series of tasks.\n\nTasks that participants were carrying out included:\n- describing a machine learning algorithm along the bias/variance dimension\n- performing cross validation to evaluate a model's generalisability\n- performing cross validation with parameter permutation to assess a model's generalisability and explore different sets of parameters\n- training and applying a decision tree classifier\n- training and applying a decision tree regressor\n\n\n"
   }
 }

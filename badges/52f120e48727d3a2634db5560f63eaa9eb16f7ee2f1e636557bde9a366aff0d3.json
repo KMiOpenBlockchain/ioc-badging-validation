@@ -4,11 +4,11 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/52f120e48727d3a2634db5560f63eaa9eb16f7ee2f1e636557bde9a366aff0d3.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/52f120e48727d3a2634db5560f63eaa9eb16f7ee2f1e636557bde9a366aff0d3.json",
   "version": "1.0",
   "name": "Coding 102",
   "description": "This badge is awarded for participation on the Coding 102 Course which is an introduction to Coding including; functions, control flow (conditional statements e.g. if/elif/else) and loops (for and while) Practical work completed using Python.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/sunderland/coding-102-2019.png",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/sunderland/coding-102-2019.png",
   "tags": [
     "Python",
     "Functions",
@@ -20,25 +20,25 @@
     "Else",
     "Control Flow"
   ],
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/051d72bedfba54464525661f58f12057a0f0b3a4290093417cc3615264f05b1d.json",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/051d72bedfba54464525661f58f12057a0f0b3a4290093417cc3615264f05b1d.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x28a50798fc903fa358d519d3e8649771c55cc9cded2e448f70933272395e311a.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x28a50798fc903fa358d519d3e8649771c55cc9cded2e448f70933272395e311a.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/9d41be18c142e2973fac27eb6087db772397fc4be3b8f321faffc10be37315c6",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/9d41be18c142e2973fac27eb6087db772397fc4be3b8f321faffc10be37315c6",
     "narrative": "Attendance on the Coding 102 course."
   }
 }

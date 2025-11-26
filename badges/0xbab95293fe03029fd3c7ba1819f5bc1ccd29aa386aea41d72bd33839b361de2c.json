@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xbab95293fe03029fd3c7ba1819f5bc1ccd29aa386aea41d72bd33839b361de2c.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xbab95293fe03029fd3c7ba1819f5bc1ccd29aa386aea41d72bd33839b361de2c.json",
   "version": "1.0",
   "name": "York Residential Day 1",
   "description": "Participants will attend day 1 of a two day residential weekend at the University of York where participants will meet more of our Industry partners at our second careers fair. Sessions will include speakers Mansha Manohar, Fatma Layas, Smilyan Pavlov, Prof Susan Stepney, Sharmadean Reid and Anne-Marie Imafidon. Topics covered will include Imposter Syndrome, research and HCI. Participants will enjoy a panel session on Agile project management, mini-talks on some of our career pathways and the choice of two breakout sessions, Cyber Security or Inclusive Design. \n\nStudents must attend 100% of day 1 to qualify for the attendance badge, this is verified using the sign in sheets.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/York_RD1.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/York_RD1.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x330abd85c64a06bb0661ac7b4dbe46070a9f0136006aafd839ac4981d459b0ca.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x330abd85c64a06bb0661ac7b4dbe46070a9f0136006aafd839ac4981d459b0ca.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x66a144c3d7884db8f608b9be5928903943f9e0787991a6beccb78da00f690484",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x66a144c3d7884db8f608b9be5928903943f9e0787991a6beccb78da00f690484",
     "narrative": "Participants must attend day 1 of the weekend in order to be awarded the digital badge."
   }
 }

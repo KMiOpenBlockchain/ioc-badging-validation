@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x48fb36abaddef85d111f5c7d481b1f54a02b4e53331d5d06f505de144b7f18d8.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x48fb36abaddef85d111f5c7d481b1f54a02b4e53331d5d06f505de144b7f18d8.json",
   "version": "1.1",
   "name": "Generative AI: Developing AI Literacy",
   "description": "The course brings together resources from different parts of LSE to help develop skills in generative AI literacy. At the end of the course students will be able to:\na)  Understand ideas of AI ethics, outlining the principles for using Generative AI effectively and ethically\nb) Understand the risks and harms that can be incurred by using Generative AI\nc) Create an authorial voice while working in collaboration with Generative AI tools\nd) Understand the hierarchy of policies\ne) Understand the principles of prompt engineering, write prompts for academic purposes, and improve outputs through refining your prompts\nf) Explore approaches to use generative AI for ideation, search and literature reviewing.\ng) Explore the use of assistive Generative AI tools for coding, using GitHub's Copilot tool.\nh) Understand how to cite, acknowledge, and declare use of generative AI tools in academic work.\ni) Appreciate the use of generative AI in career journey, including how to support CV writing, cover letters, and preparing for job interviews.\nj) Understand how companies are using AI as part of their recruitment process, and will learn how to develop the skills needed to effectively use these tools.\nk) Understand skills employers are looking for and how these skills can be developed to enhance expertise for working in AI-focused roles.\n\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/generative_ai_copy_83.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/generative_ai_copy_83.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xbac6449a81f736c36b1a2c70db4264c3db180de6611fd9de117795442825dc4f.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xbac6449a81f736c36b1a2c70db4264c3db180de6611fd9de117795442825dc4f.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x48c4e6f2b128b75b7c0a38429ab8b978af063f26a49bd718da56fac685fa556a",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x48c4e6f2b128b75b7c0a38429ab8b978af063f26a49bd718da56fac685fa556a",
     "narrative": "Successful completion of the following modules:\n1. Anatomy of Generative AI\n2. Ethical Use of Generative AI\n3. Working with Generative AI\n4. Generative AI in Industry"
   }
 }

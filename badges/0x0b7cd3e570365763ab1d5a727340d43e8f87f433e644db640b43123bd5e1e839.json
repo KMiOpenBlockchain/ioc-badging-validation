@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x0b7cd3e570365763ab1d5a727340d43e8f87f433e644db640b43123bd5e1e839.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x0b7cd3e570365763ab1d5a727340d43e8f87f433e644db640b43123bd5e1e839.json",
   "version": "1.0",
   "name": "Python Fundamentals",
   "description": "The 9-part Python fundamentals series teaches you the basic Python skills that form the foundation for any type of programming project. After having completed this series, you will be familiar with the Python syntax, know about some of the built-in functions and objects in Python and will be able to solve basic programming problems independently using lists, if-else, for and while loops, dictionaries, and writing your own functions.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_fundamentals_knowledge_77.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_fundamentals_knowledge_77.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x6267f76b20853cf165f8d89d9be6f1212eb22d05b195b48b988efb8e87cfae28.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x6267f76b20853cf165f8d89d9be6f1212eb22d05b195b48b988efb8e87cfae28.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x55a9a8d03867ab1c8e616d0de9120f785699c5b165cef2751e35f55c725e436b",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x55a9a8d03867ab1c8e616d0de9120f785699c5b165cef2751e35f55c725e436b",
     "narrative": "This badge is awared to learners that have completed one of the final coding challenges from the last Python Fundamentals workshop series. The submitted code has to produce a game that behaves as outlined in the criteria in the workshop materials. Style, efficiency and readibility of the submitted code are not assessed, but feedback will be provided if relevant."
   }
 }

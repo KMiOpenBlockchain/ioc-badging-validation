@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xf210dba17910de8ad2b265719afa81ba6d7f03f05f122472257b350df1b056de.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xf210dba17910de8ad2b265719afa81ba6d7f03f05f122472257b350df1b056de.json",
   "version": "1.0",
   "name": "Agile Software Engineering",
   "description": "Two online courses covering the Agile Approach and how it can help enhance productivity and product quality. Learn the fundamentals of agile for software developers and why this approach is suited to software engineering. In addition, learn how to create higher quality software by implementing Agile testing.\n\nTo prove completion of the online courses, the student must provide a copy of the course completion certificates provided by the course provider. We do not have access to course providers assessment criteria.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/Agile_Software_Engineering.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/Agile_Software_Engineering.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x43b00de1b4f0a915ae88135fdc212c6bddd460263ab8228ed2e2eb7daab4029d.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x43b00de1b4f0a915ae88135fdc212c6bddd460263ab8228ed2e2eb7daab4029d.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x4bdbdce02d232cd66a82db505bbbef9d95688177a044ec19a21e339a12822817",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x4bdbdce02d232cd66a82db505bbbef9d95688177a044ec19a21e339a12822817",
     "narrative": "Participants must complete both online courses to be awarded with the digital badge."
   }
 }

@@ -4,20 +4,20 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x2ff39fb060292cedde1b9cfef81449206e54781206f6f13f04633d19c52df909.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x2ff39fb060292cedde1b9cfef81449206e54781206f6f13f04633d19c52df909.json",
   "version": "1.0",
   "name": "Term 3",
   "description": "Super Badge awarded for completion of all Term 3 Modules",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/durham/techup2020/term3_super.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x34bd777a7bcac0ab4e66c05d7a462bc5bb709d9c4ac80348b348430b7ace3806.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/durham/techup2020/term3_super.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xf7d8b9255988aaa8e3763fc74cf94a41897fb0240edeb6818f23a6ebb8b78478.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x34bd777a7bcac0ab4e66c05d7a462bc5bb709d9c4ac80348b348430b7ace3806.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x9cb9d02279870438474d83eae8bb581cddeb7fd890902f91b66b82448f3d8e11",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x9cb9d02279870438474d83eae8bb581cddeb7fd890902f91b66b82448f3d8e11",
     "narrative": "Participants must achieve the following badges to be awarded the Term 3 Super Badge:\n- Cyber Security\n- Communication and Public Speaking and one of the following combinations:\nDeveloper/Tester Pathway\n- Software Development\n- Software Testing\nData Scientist\n- Adv Data Science\n- Adv Machine Learning\n- Stakeholder Management\nBusiness Analyst\n- Agile Business Analyst\n- Applied Data Science\n- Leadership Skills\nAgile PM\n- Agile Project Management\n- Leadership Skills"
   }
 }

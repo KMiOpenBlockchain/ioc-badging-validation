@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0xfe8da286734b69cf12ae5ff60794b7f19aafca9960ad2c65d9efb7dc34c6f45b.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0xfe8da286734b69cf12ae5ff60794b7f19aafca9960ad2c65d9efb7dc34c6f45b.json",
   "version": "1.0",
   "name": "AI Prototyping: Bias, Fairness, and Privacy (MISDI Code Camp 2021)",
   "description": "The MISDI Code Camp 2021 was delivered via a combination of online synchronous lectures, events, and independent group work and self-study. The AI Prototyping: Bias, Fairness, and Privacy track used interactive websites, group discussions, games and a film screening of Coded Bias to explore and explain how AI and machine learning works and the challenges to overcome to make AI less biased, fairer and protect individual privacy. \n\nWorking in groups of two, attendees undertook FutureLearn and UAL Creative Computing Institute's Design a Feminist Chatbot online course. The course involved further exploration of bias and feminist design principles, developing user research, storyboarding and prototyping skills as attendees developed a feminist chatbot prototype. The prototype was then applied to an existing chatbot code template. By the end of the week, attendees produced a small portfolio of work, including storyboards, user research artifacts and a working prototype. For their final project, attendees shared their chatbot designs and discussed challenges and how they addressed them with the wider group.\n",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/ai_track_misdi_code_camp_2021_24.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/ai_track_misdi_code_camp_2021_24.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x67b4270758ec12f892b43328d642e94750f6c2d8464f8e80af43329f11b5f4e6.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x67b4270758ec12f892b43328d642e94750f6c2d8464f8e80af43329f11b5f4e6.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x92a2f6ff68d983974caa2700efab46c9d95899ef2c5df345d294b668fb03ffba",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x92a2f6ff68d983974caa2700efab46c9d95899ef2c5df345d294b668fb03ffba",
     "narrative": "This badge is awarded to people who attended two of the four lecture days and presented their final project on the last day. \n"
   }
 }

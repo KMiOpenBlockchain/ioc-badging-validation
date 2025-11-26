@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/826d04ed674bb008304366ad59ccb9084612271311a5e696b25332b8ae48cda3.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/826d04ed674bb008304366ad59ccb9084612271311a5e696b25332b8ae48cda3.json",
   "version": "1.0",
   "name": "Introduction to Artificial Intelligence and Machine Learning Workshop",
   "description": "A two-day workshop providing practical experience with using modern machine learning tools to analyse various real-world datasets.  and the workshop begins with an introduction to AI, giving a brief history and the a review of current ethical considerations.  The workshop gives a practical introduction to ideas in machine learning, focusing on classification of images and time series datasets. Also, during the workshop an understanding of the strengths and limitations of machine learning, and some possible impacts these tools could have on society will be explored.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/oucomputing/superai2019.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/oucomputing/superai2019.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/8b99c5eba035d322638674997ca34f0c8fabdee91ef21def113ffda4ed4f60ec.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x013ec0d82b4d2d86d824947f20d7d59f2f4a899b28c0d36b259deef49c13ed4b.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x013ec0d82b4d2d86d824947f20d7d59f2f4a899b28c0d36b259deef49c13ed4b.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/8f596ca0b5c05be6ea53899208f90e79989fe4764b5f25af798b70b831669357",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/8f596ca0b5c05be6ea53899208f90e79989fe4764b5f25af798b70b831669357",
     "narrative": "Participants must attend at 2 days and complete 6 out 7 activities to be awarded the digital badge."
   }
 }

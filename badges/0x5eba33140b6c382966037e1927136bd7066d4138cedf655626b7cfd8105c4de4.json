@@ -4,17 +4,17 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x5eba33140b6c382966037e1927136bd7066d4138cedf655626b7cfd8105c4de4.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x5eba33140b6c382966037e1927136bd7066d4138cedf655626b7cfd8105c4de4.json",
   "version": "1",
   "name": "Cloud Computing & Data Analytics",
   "description": "Institute of Coding - Skills Bootcamp Completion Badge - Edge Hill University - Cloud Computing and Data Analysis Skills Bootcamp. Edge Hill University's Computer Science Department is a consortium member of the University of Bath's Institute of Coding (IoC) and have devised a digital skills Bootcamp to run as part of the IoC's Department for Education (DfE) Lot Two national delivery model. The DfE model is designed to upskill and develop eligible learners who are seeking new career employment opportunities (or developing new products/services if self-employed, or developing new projects, roles, responsibilities if being staff developed by current employer) in Cloud Computing and Data Analytics areas of digital data/business employment. The main topics covered on the Bootcamp are: Beginner's & Advanced Python, Fundamentals of Computer Science, Advanced Data Science, Database Basics, Natural Language Processing, Cloud Computing Basics & Cloud Computing for Analytics and an Introduction to Artificial Intelligence and Machine Learning. The 16-week course is divided into three terms and delivers an industry informed curriculum. While the first term subjects introduces the fundamentals of data science and programming, the learning in the subsequent terms takes learners to intermediate and advance levels of applied data analytics and cloud computing. Four half-day online residentials, built in within the 16-week period, deliver sessions on confidence building, employability skills as well as hosting employers panels and industry guest speakers. The dates of the Bootcamps are from 06/09/2021-10/12/2021 (SB1), 08/11/2021-25/02/2022 (SB2), 06/06/2022-23/09/2022 (SB3).",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x0055030573eb6f2137150d904fc54de2be5fdd94b762bf45cc39fc069ff64591/edge_hill_university___skills_bootcamp_badge__2_27.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x0055030573eb6f2137150d904fc54de2be5fdd94b762bf45cc39fc069ff64591/edge_hill_university___skills_bootcamp_badge__2_27.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xab6ada08964528dba01fb5fd274c80dc187839b4fcd825e4a809902833952b74.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0xb976f0298d2adb6b4bb27de18c72a7b25f2530be9d342dfc695bc944e0fadccd",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xb976f0298d2adb6b4bb27de18c72a7b25f2530be9d342dfc695bc944e0fadccd",
       "targetName": "RQF Level 4",
       "targetUrl": "https://www.gov.uk/what-different-qualification-levels-mean/list-of-qualification-levels",
       "targetDescription": "Level 4 of the Regulated Qualifications Framework (RQF) for general and vocational qualifications regulated by Ofqual in England and the Council for the Curriculum, Examinations and Assessment (CCEA) in Northern Ireland",
@@ -23,20 +23,20 @@
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0x86dbc046959c5110abecbe72587150eabdac03a5a09067951f72b7ea5947d38c.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0x86dbc046959c5110abecbe72587150eabdac03a5a09067951f72b7ea5947d38c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x0a3fa3cbc03a3a29b1b28a36e7d0dfc7ca085e9706b4ab66e38e91ee30ed45f3",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x0a3fa3cbc03a3a29b1b28a36e7d0dfc7ca085e9706b4ab66e38e91ee30ed45f3",
     "narrative": "Successful completion of the Cloud Computing and Data Analytics Skills Bootcamp from Edge Hill University in partnership with the Institute of Coding, University of Bath. Topics covered are: Beginner's & Advanced Python, Fundamentals of Computer Science, Advanced Data Science, Database Basics, Natural Language Processing, Cloud Computing Basics & Cloud Computing for Analytics and an Introduction to Artificial Intelligence and Machine Learning. In order to achieve the qualification and the digital badge, learners must have completed all compulsory assessed assignments and quizzes for each of the topics and achieved a PASS grade. Learners will have developed skills in knowledge of underpinning concepts of Artificial Intelligence, Machine Learning and Data Analytics as well as practical skills for generating, analysing, visualising and interpreting data using various data repositories and other cloud-based technology. Learners will also have explored different programming languages and tools in the context of delivering data driven solutions and have developed general problem-solving skills, confidence building and other personal development experience.",
     "criteriaSkills": [
       {

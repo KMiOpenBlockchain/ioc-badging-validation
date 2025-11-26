@@ -4,30 +4,30 @@
   ],
   "@language": "en-gb",
   "type": "BadgeClass",
-  "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/badges/0x258ee91704ec007e4cb0e7c438787d6899b43ee3c447b165061aa734f47e5ff1.json",
+  "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/badges/0x258ee91704ec007e4cb0e7c438787d6899b43ee3c447b165061aa734f47e5ff1.json",
   "version": "1.0",
   "name": "Python Data Visualisation",
   "description": "The 3-part Python Data Visualisation series teaches learners how to use the most popular libraries to generate visualisations in Python. After having completed this series, learners will be able to create and customise line, scatter, bar plots and histograms with matplotlib. They will also learn how to create visualisations with pandas and seaborn.",
-  "image": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_data_visualisation_45.png",
-  "issuer": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
+  "image": "https://kmiopenblockchain.github.io/ioc-badging-validation/images/badges/0x5ef4c42c45c59d3a8bae3906c4cc12c83394a6ee96fdd911cf90ce010675e0d1/python_data_visualisation_45.png",
+  "issuer": "https://kmiopenblockchain.github.io/ioc-badging-validation/issuers/0xe442a2f53d2bdcc125e9b1ea207109eda33c064350e12d7496d5d5b2bc083ff1.json",
   "alignment": [
     {
       "@context": "https://w3id.org/openbadges/v2",
       "type": "AlignmentObject",
-      "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
+      "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
       "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],
-  "endorsement": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/endorsements/0xc34ea3498d9188a035fee48dea56ae2941aaa6290646cacf8e8cf99a9839374c.json",
+  "endorsement": "https://kmiopenblockchain.github.io/ioc-badging-validation/endorsements/0xc34ea3498d9188a035fee48dea56ae2941aaa6290646cacf8e8cf99a9839374c.json",
   "criteria": {
     "@context": [
       "https://w3id.org/openbadges/v2",
-      "https://kmiopenblockchain.github.io/IoC-Badging-Validation/ld/context.jsonld"
+      "https://kmiopenblockchain.github.io/ioc-badging-validation/ld/context.jsonld"
     ],
     "type": "Criteria",
-    "id": "https://kmiopenblockchain.github.io/IoC-Badging-Validation/criteria/0x06ed4784b289710001a578cc67a048280c83dd49c8f3257a33d42d163794180d",
+    "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/criteria/0x06ed4784b289710001a578cc67a048280c83dd49c8f3257a33d42d163794180d",
     "narrative": "This badge is awarded to learners who attended all workshops from the Python Data Visualisation series."
   }
 }
