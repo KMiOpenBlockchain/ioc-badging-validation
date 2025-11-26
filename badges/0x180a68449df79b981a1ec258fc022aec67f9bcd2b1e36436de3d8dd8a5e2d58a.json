@@ -16,7 +16,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x53415dc921681404dcbb0e4f285683af17a6db50585273f8bc74298e5e3fb632",
       "targetName": "IoC Self Assessed Knowledge Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/90a0f1263fa481ebbc0cba62eb1511ac7b48021e0ab9c44eb5612ba92a4a0b56.json",
       "targetDescription": "Institute of Coding recognition of self assessed knowledge"
     }
   ],

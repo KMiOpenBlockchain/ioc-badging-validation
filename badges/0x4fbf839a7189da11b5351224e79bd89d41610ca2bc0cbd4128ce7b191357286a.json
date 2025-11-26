@@ -25,7 +25,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3.json",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
@@ -40,35 +40,35 @@
     "narrative": "This digital badge confirms the successful completion of the Skills Bootcamp in Creative Computing, in which learners demonstrate competence in the following skills: an introduction to design thinking, project management techniques, ideation and creative problem solving, digital identity and story telling, coding tools for web and app development, user experience (UX) design, how to use prototyping tools. Students complete 21 hours of live teaching alongside employability sessions which focus on career planning, self pitching and CV and interview skills. Students also complete 8 hours of independent study. The course is designed for those seeking new employment within the creative computing industry.",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/web_programming",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/web_programming.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/programming_languages",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/programming_languages.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/graphics_processors",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/graphics_processors.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/smart-phone_applications",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/smart-phone_applications.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/web_applications",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/web_applications.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/creative_design",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/creative_design.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/experience_design",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/experience_design.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/user_interface_design",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/user_interface_design.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]

@@ -16,7 +16,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0xffd59d84f4059ed37a80b21dda88f40bc02b3fee06c5cc365f25239496fd3776",
       "targetName": "IoC Bronze Level Knowledge Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/dffc552b4918b00dfcf75961f47145135f5d91a5f3394c3e4ba530ccee8a023a.json",
       "targetDescription": "Institute of Coding recognition of knowledge at bronze level"
     }
   ],
@@ -31,27 +31,27 @@
     "narrative": "The course consists of 3 modules, each containing explanatory videos and readings on various aspects of AI for social sciences. The course details are broken down as follows:\n\nModule 1: Introduction to AI for Professionals\n-\tVideo 1 - Defining AI This video will introduce competing definitions of AI\n-\tVideo 2 - Types of AI          This video will introduce specific and practical examples of AI\n-\tArticle - Amershi, S. et. al. (2014)       This article is written by influential computer scientists and challenges traditional views of systems versus humans\n-\tVideo 3 - Anatomy of AI     This video helps you recognize the underlying parts that make AI whole\n-\tQuiz       You will be tested on your ability to define and recognize various dimensions of AI\n\nModule 2: An introduction to Natural Language Processing\n-\tVideo 1 - Natural language processing   This video will introduce core NLP approaches\n-\tVideo 2 - Bias       This video will introduce practical examples of how bias is introduced into text-based AI\n-\tArticle - Sun, T. et. al. (2020)              This article provides a robust/academic review of bias in Natural Language Processing\n-\tArticle - Douglas, L. (2017)  This article provides specific examples of bias.\n-\tVideo 3 - Social computing This video challenges traditional views of technology and introduces the importance of the human\n-\tQuiz       You will be tested on your understanding of core NLP approaches and related issues of bias\n\nModule 3: Applied Natural Language Processing\n-\tVideo 1 - Behind the scenes In this video we showcase a typical AI development journey\n-\tVideo 2 - NLP in practice In this video we return to NLP but with a deeper look at code and implementation\n-\tVideo 3 - Digitising qualitative research  In this video we will summarize the state of digital qualitative research\n\nAssignment          \nThis assignment will test your knowledge about themes from all three modules\n(The assignment is marked by staff from Pigeonline or the Digital Skills Lab to ensure they have appropriately and accurately applied the skills from the proceeding modules)",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/ai_planning",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/ai_planning.json",
         "proficiencyLevel": "saro:Competent"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/automatic_text_summarization",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/automatic_text_summarization.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/sentiment_classification",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/sentiment_classification.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/text_clustering",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/text_clustering.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computing_with_words",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computing_with_words.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/n-gram_language_models",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/n-gram_language_models.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]

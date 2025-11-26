@@ -25,7 +25,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f.json",
       "targetDescription": "Institute of Coding recognition of attendance"
     }
   ],

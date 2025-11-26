@@ -16,7 +16,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/10a583bb833fb24d5605f60204f5e04da52ff40ec9bc8faf699411ab9aecac03",
       "targetName": "IoC Attendance Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/b1c5d124ea92eef3d753c35f89d1fad7d108789a7d3e702213a698e60482121f.json",
       "targetDescription": "Institute of Coding recognition of attendance"
     },
     {
@@ -39,99 +39,99 @@
     "narrative": "The participant undertook the Health Informatics CPD programme that was offered remotely between November 2020 and March 2021.\n\nThe participant completed a total of 31 learning hours divided across ten course topics including:\n1.\tLeadership in Health Informatics: An Introduction\n2.\tIntroduction to Health Information System Interoperability\n3.\tHuman Computer Interaction in Healthcare\n4.\tClinical Information Systems\n5.\tDigital Ethics in Healthcare\n6.\tSNOMED CT Basics\n7.\tCybersecurity for Healthcare\n8.\tData Privacy and Protection in Healthcare\n9.\tDigital Health Technologies\n10.\tClinical Informatics in Practice",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/clinical_decision_support_systems",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/clinical_decision_support_systems.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/decision_models",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/decision_models.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/human_factors",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/human_factors.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/decision_trees",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/decision_trees.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/usability_testing",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/usability_testing.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/data_protection",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/data_protection.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/k-anonymity",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/k-anonymity.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/medical_informatics",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/medical_informatics.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/human_computer_interface",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/human_computer_interface.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/user-centered_design",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/user-centered_design.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/differential_privacy",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/differential_privacy.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/electronic_health_record_%28ehr%29",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/electronic_health_record_%28ehr%29.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/security_and_privacy",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/security_and_privacy.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/personal_data",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/personal_data.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/clinical_decision_support",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/clinical_decision_support.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/work_environments",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/work_environments.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/heuristic_evaluation",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/heuristic_evaluation.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/random_forests",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/random_forests.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/privacy_policies",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/privacy_policies.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/hospital_information_systems",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/hospital_information_systems.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/information_systems_development",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/information_systems_development.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/sensitive_attribute",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/sensitive_attribute.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/information_sharing",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/information_sharing.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/semantic_interoperability",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/semantic_interoperability.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]

@@ -25,7 +25,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3.json",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
@@ -40,39 +40,39 @@
     "narrative": "Successful completion of the Cloud Computing and Data Analytics Skills Bootcamp from Edge Hill University in partnership with the Institute of Coding, University of Bath. Topics covered are: Beginner's & Advanced Python, Fundamentals of Computer Science, Advanced Data Science, Database Basics, Natural Language Processing, Cloud Computing Basics & Cloud Computing for Analytics and an Introduction to Artificial Intelligence and Machine Learning. In order to achieve the qualification and the digital badge, learners must have completed all compulsory assessed assignments and quizzes for each of the topics and achieved a PASS grade. Learners will have developed skills in knowledge of underpinning concepts of Artificial Intelligence, Machine Learning and Data Analytics as well as practical skills for generating, analysing, visualising and interpreting data using various data repositories and other cloud-based technology. Learners will also have explored different programming languages and tools in the context of delivering data driven solutions and have developed general problem-solving skills, confidence building and other personal development experience.",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computer_systems",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computer_systems.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/theoretical_computer_science",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/theoretical_computer_science.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/internet",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/internet.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computer_security",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computer_security.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/artificial_intelligence",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/artificial_intelligence.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/information_technology",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/information_technology.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computer_programming",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computer_programming.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/information_retrieval",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/information_retrieval.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/data_mining",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/data_mining.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]

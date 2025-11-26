@@ -25,7 +25,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3.json",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
@@ -40,31 +40,31 @@
     "narrative": "This digital badge confirms successful completion of the Artificial Intelligence Skills Bootcamp, in which learners demonstrated competence in the following skills: Computational thinking, Python programming, Natural Language Processing, Machine Learning, Automation, Self-directed development in application of skills to real-world examples (spam filter, chat bot, inventory control, robotics) and in preparation for associated careers (careers planning, self-reflection, independent learning, CV development). Students completed 10 hours of online classes and 20 hours of independent study to earn this badge.",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/artificial_intelligence",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/artificial_intelligence.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/automation",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/automation.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/self-managing",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/self-managing.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computer_programming",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computer_programming.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/robotics",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/robotics.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/natural_language_processing_systems",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/natural_language_processing_systems.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/machine_learning",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/machine_learning.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]

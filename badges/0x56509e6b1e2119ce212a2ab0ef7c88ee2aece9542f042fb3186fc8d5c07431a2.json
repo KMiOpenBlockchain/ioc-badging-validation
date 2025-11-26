@@ -25,7 +25,7 @@
       "type": "AlignmentObject",
       "id": "https://kmiopenblockchain.github.io/ioc-badging-validation/alignments/0x5c2ecd37a2ff6bdddb2060cca0689884441b9cfdaab022e62fc4ad5006cbc62e",
       "targetName": "IoC Completion Alignment",
-      "targetUrl": "https://ioc.kmi.open.ac.uk/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3",
+      "targetUrl": "https://kmiopenblockchain.github.io/ioc-badging-skills/badges/0xfce959d37dc573c7c696efa0e72ab00338ef3db5060264bfd05da6949271e1b3.json",
       "targetDescription": "Institute of Coding recognition of completion"
     }
   ],
@@ -40,35 +40,35 @@
     "narrative": "This badge confirms successful completion of the Cyber Security Skills Bootcamp in which learners have developed an online portfolio and demonstrated competence in the following skills:\n\nComputational Thinking\nProgramming Language\nData Analysis\nHashtag & Authentication\nPublic Key Encryption\nControl System Vulnerabilities\nSplunk / SIEM\nInformation Risk\nData Interrogation",
     "criteriaSkills": [
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/authentication",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/authentication.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/malware_analysis",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/malware_analysis.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/cyber_security",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/cyber_security.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/computational_resources",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/computational_resources.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/programming_language",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/programming_language.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/control_system_analysis",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/control_system_analysis.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/control_systems",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/control_systems.json",
         "proficiencyLevel": "saro:Basic"
       },
       {
-        "requiresSkill": "https://ioc.kmi.open.ac.uk/skill/public_key_encryption",
+        "requiresSkill": "https://kmiopenblockchain.github.io/ioc-badging-skills/skill/public_key_encryption.json",
         "proficiencyLevel": "saro:Basic"
       }
     ]
