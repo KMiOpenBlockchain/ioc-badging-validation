@@ -25,8 +25,10 @@
     <h1>Institute of Coding Badge Validation</h1>
     <p>This site hosts the public validation JSON data for the final version of the IoC Badges re-issued to students prior to the Open University's Institute of Coding (IoC) Badging platform being retired.
     To validate those final IoC badges issued through the Open University's former IoC badging platform, please use the <a href="https://openbadgesvalidator.imsglobal.org/">IMS Global Open Badges 2.0 Validator</a>. 
-    <b>Please Note:</b> IMG Global badge validation will only work for the reissued instances of IoC badges emailed to recipients in November and December 2025. All earlier issued badges will no longer be verifiable.</p>
+    <b>Please Note:</b> IMS Global badge validation will only work for the reissued instances of IoC badges emailed to recipients in December 2025. All earlier issued badges will no longer be verifiable.</p>
     <p>Below is a list of all Univerities that issued badges through the Open University's IoC badge issuing research platform, along with their public key's used to sign their badges, thier issuer details and thier revocation lists. All badge types issued can be found here: <a href="badge-types.html">IoC Endorsed Badge Types</a></p>
+
+    <p>If you have any issues validating your badges, please email: <button id="reveal" type="button">Show email</button><span id="email"></span> for support.</p>
 
       <center><h2>IoC Badge Issuers</h2></center>
       <div class="tablewrap viewallbasebadges">
@@ -72,5 +74,22 @@
         </div>
      </footer>
   </div>
+
+  <script>
+    const b64 = 'aW9jLWJhZGdlc0BvcGVuLmFjLnVr'; 
+    document.getElementById('reveal').addEventListener('click', function () {
+      const email = atob(b64);
+      const link = document.createElement('a');
+      link.href = 'mailto:' + email;
+      link.textContent = email;
+      document.getElementById('email').appendChild(link);
+      this.remove(); 
+    });
+  </script>
+
+  <noscript>
+    Email: ioc-badges [at] open [dot] ac [dot] uk
+  </noscript>
+
 </body>
 </html>
