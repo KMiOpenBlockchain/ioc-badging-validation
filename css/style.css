@@ -261,3 +261,26 @@ td {
     vertical-align: inherit;
     unicode-bidi: isolate;
 }
+
+.cookieConsentButton {
+    background-color: #fbbf11; /* Green background */
+    border: 1px solid #bbb;
+    color: black; /* White text */
+    padding: 5px 10px; /* Some padding */
+    text-align: center; /* Centered text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Make the buttons appear side by side */
+    font-size: 16px; /* Increase font size */
+    margin: 10px 2px 5px 2px; /* Some margin */
+    cursor: pointer; /* Pointer/hand icon */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.cookieConsentButton:hover {
+    background-color: white; 
+}
+
+.cookieConsentButton:focus {
+    background-color: white; 
+}

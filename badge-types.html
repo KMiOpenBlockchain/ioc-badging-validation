@@ -6,6 +6,7 @@
 <title>Institute of Coding Badge Validation - Badge Types</title>
 <link href="css/style.css" rel="stylesheet"/>
 <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-dark sticky-top bg-primary justify-content-between" id="topMenu">
@@ -991,17 +992,31 @@
 </table>
 </div>
 </div>
+
+<!-- Cookie Banner -->
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 0; width: 100%; background: #2B373B; color: white; padding: 10px; text-align: center; z-index: 1000;">
+    <div style="display: flex; align-items: center; flex-direction: column;">
+        This Institute of Coding Badging Vaidation GitHub site does not use any cookies or store any personal data.
+        <br>It is a help page and an index for badging related JSON needed to badge validation<br>
+        <button type="button" class="cookieConsentButton" data-bs-dismiss="alert" aria-label="OK" id="no-cookies">OK</button>
+    </div>
+</div>
+
 <div class="container-fluid">
-<footer class="footer mt-auto py-3 bg-primary row text-white">
-<div class="container">
-<div class="row">
-<div class="col-md-12 text-right">
-<span class="footlogos"><a href="http://kmi.open.ac.uk"><img alt="Knowledge Media Institute" height="46" src="images/kmi-logo-white.png"/></a></span>
-<span class="footlogos"><a href="http://www.open.ac.uk"><img alt="The Open University" height="46" src="images/ou-logo-white.png"/></a></span>
+  <footer class="footer mt-auto py-3 bg-primary row text-white">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12 text-right">
+            <span class="footlogos"><a href="http://kmi.open.ac.uk"><img src="images/kmi-logo-white.png" height="46" alt="Knowledge Media Institute"></a></span>
+            <span class="footlogos"><a href="http://www.open.ac.uk"><img src="images/ou-logo-white.png" height="46" alt="The Open University"></a></span>
+        </div>
+      </div>    
+    </div>
+  </footer>
 </div>
-</div>
-</div>
-</footer>
-</div>
+  
+<!-- Cookie Banner -->
+<script src="/cookiebanner.js"></script>
+
 </body>
 </html>
